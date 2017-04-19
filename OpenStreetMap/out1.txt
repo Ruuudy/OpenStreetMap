@@ -1,0 +1,1617 @@
+Node Id: 3010766878 lat: 50.0648261 lon: 19.9413412
+	Nodee Id: 30376057 lat: 50.0636278 lon: 19.9404334 dystans: 148,17 metrow polaczone drogo: Floriañska
+	Nodee Id: 3010730390 lat: 50.0649149 lon: 19.9413755 dystans: 10,17 metrow polaczone drogo:  
+
+Node Id: 2503524304 lat: 50.0621076 lon: 19.9392535
+	Nodee Id: 251689483 lat: 50.0628627 lon: 19.9398275 dystans: 93,43 metrow polaczone drogo: Floriañska
+	Nodee Id: 2519197579 lat: 50.0620188 lon: 19.9391757 dystans: 11,33 metrow polaczone drogo:  
+
+Node Id: 226228402 lat: 50.0592537 lon: 19.9245534
+	Nodee Id: 1305162484 lat: 50.059296 lon: 19.9239091 dystans: 46,23 metrow polaczone drogo: Aleja 3 Maja
+	Nodee Id: 226214987 lat: 50.0592915 lon: 19.9248525 dystans: 21,76 metrow polaczone drogo: Aleja Marsza³ka Ferdynanda Focha
+	Nodee Id: 1305162491 lat: 50.0591538 lon: 19.9238906 dystans: 48,60 metrow polaczone drogo: Aleja Marsza³ka Ferdynanda Focha
+
+Node Id: 1305162484 lat: 50.059296 lon: 19.9239091
+	Nodee Id: 226228402 lat: 50.0592537 lon: 19.9245534 dystans: 46,23 metrow polaczone drogo: Aleja 3 Maja
+	Nodee Id: 1305162491 lat: 50.0591538 lon: 19.9238906 dystans: 15,87 metrow polaczone drogo:  
+	Nodee Id: 3754628389 lat: 50.0597798 lon: 19.9206056 dystans: 241,88 metrow polaczone drogo: Aleja 3 Maja
+
+Node Id: 206372380 lat: 50.0640861 lon: 19.9337123
+	Nodee Id: 2419894894 lat: 50.0634183 lon: 19.9329642 dystans: 91,46 metrow polaczone drogo: Juliana Dunajewskiego
+	Nodee Id: 2104495834 lat: 50.0636309 lon: 19.9348424 dystans: 95,23 metrow polaczone drogo: Szczepañska
+	Nodee Id: 226009919 lat: 50.065658 lon: 19.9354571 dystans: 214,62 metrow polaczone drogo: Juliana Dunajewskiego
+
+Node Id: 2419894894 lat: 50.0634183 lon: 19.9329642
+	Nodee Id: 206372380 lat: 50.0640861 lon: 19.9337123 dystans: 91,46 metrow polaczone drogo: Juliana Dunajewskiego
+	Nodee Id: 240971033 lat: 50.0647502 lon: 19.9316397 dystans: 175,70 metrow polaczone drogo: Karmelicka
+	Nodee Id: 251688939 lat: 50.0626356 lon: 19.9321021 dystans: 106,59 metrow polaczone drogo: Podwale
+	Nodee Id: 2104477130 lat: 50.0633755 lon: 19.9330239 dystans: 6,39 metrow polaczone drogo: Szewska
+
+Node Id: 226214987 lat: 50.0592915 lon: 19.9248525
+	Nodee Id: 226228402 lat: 50.0592537 lon: 19.9245534 dystans: 21,76 metrow polaczone drogo: Aleja Marsza³ka Ferdynanda Focha
+	Nodee Id: 207439167 lat: 50.0581534 lon: 19.9256441 dystans: 138,59 metrow polaczone drogo: Aleja Zygmunta Krasiñskiego
+	Nodee Id: 226214980 lat: 50.0593596 lon: 19.9252909 dystans: 32,20 metrow polaczone drogo: Marsza³ka Józefa Pi³sudskiego
+	Nodee Id: 273532982 lat: 50.0608459 lon: 19.9239765 dystans: 183,81 metrow polaczone drogo: Aleja Adama Mickiewicza
+
+Node Id: 2420153436 lat: 50.0646229 lon: 19.9449476
+	Nodee Id: 277478868 lat: 50.0633874 lon: 19.9450626 dystans: 137,63 metrow polaczone drogo: Westerplatte
+	Nodee Id: 2420717850 lat: 50.0646181 lon: 19.9449621 dystans: 1,16 metrow polaczone drogo: Lubicz
+	Nodee Id: 2689497891 lat: 50.0648218 lon: 19.944982 dystans: 22,25 metrow polaczone drogo: Pawia
+	Nodee Id: 2420153454 lat: 50.065279 lon: 19.943047 dystans: 154,03 metrow polaczone drogo: Basztowa
+
+Node Id: 277478868 lat: 50.0633874 lon: 19.9450626
+	Nodee Id: 2420153436 lat: 50.0646229 lon: 19.9449476 dystans: 137,63 metrow polaczone drogo: Westerplatte
+	Nodee Id: 278189887 lat: 50.063541 lon: 19.9467724 dystans: 123,24 metrow polaczone drogo: Doktora Ludwika Zamenhofa
+	Nodee Id: 278189882 lat: 50.0627778 lon: 19.9449661 dystans: 68,13 metrow polaczone drogo: Westerplatte
+
+Node Id: 226834588 lat: 50.0672499 lon: 19.9428678
+	Nodee Id: 226834652 lat: 50.0672776 lon: 19.9437108 dystans: 60,25 metrow polaczone drogo: Kurniki
+	Nodee Id: 262193751 lat: 50.0656981 lon: 19.9418248 dystans: 187,93 metrow polaczone drogo: Plac Jana Matejki
+	Nodee Id: 1936191714 lat: 50.0674043 lon: 19.9427174 dystans: 20,25 metrow polaczone drogo: Plac Jana Matejki
+
+Node Id: 226834652 lat: 50.0672776 lon: 19.9437108
+	Nodee Id: 226834588 lat: 50.0672499 lon: 19.9428678 dystans: 60,25 metrow polaczone drogo: Kurniki
+	Nodee Id: 2420153455 lat: 50.0653824 lon: 19.942745 dystans: 221,72 metrow polaczone drogo: Zacisze
+	Nodee Id: 226010207 lat: 50.067281 lon: 19.9451247 dystans: 100,92 metrow polaczone drogo: Kurniki
+
+Node Id: 2419720327 lat: 50.0561118 lon: 19.928821
+	Nodee Id: 752177519 lat: 50.0554177 lon: 19.9278335 dystans: 104,53 metrow polaczone drogo: Zwierzyniecka
+	Nodee Id: 268800781 lat: 50.0586004 lon: 19.9282744 dystans: 279,46 metrow polaczone drogo: Retoryka
+	Nodee Id: 2143514396 lat: 50.0560602 lon: 19.9289356 dystans: 9,99 metrow polaczone drogo: Powiœle
+	Nodee Id: 2419720328 lat: 50.0564333 lon: 19.9292265 dystans: 46,00 metrow polaczone drogo: Zwierzyniecka
+
+Node Id: 752177519 lat: 50.0554177 lon: 19.9278335
+	Nodee Id: 2419720327 lat: 50.0561118 lon: 19.928821 dystans: 104,53 metrow polaczone drogo: Zwierzyniecka
+	Nodee Id: 2143515231 lat: 50.0554464 lon: 19.9275126 dystans: 23,13 metrow polaczone drogo:  
+	Nodee Id: 207440039 lat: 50.0552932 lon: 19.9275792 dystans: 22,83 metrow polaczone drogo: Zwierzyniecka
+
+Node Id: 236136829 lat: 50.0524698 lon: 19.9351564
+	Nodee Id: 236140518 lat: 50.0513352 lon: 19.9355672 dystans: 129,53 metrow polaczone drogo: Smocza
+	Nodee Id: 2593195251 lat: 50.0536079 lon: 19.9380262 dystans: 240,82 metrow polaczone drogo: Bernardyñska
+
+Node Id: 236140518 lat: 50.0513352 lon: 19.9355672
+	Nodee Id: 236136829 lat: 50.0524698 lon: 19.9351564 dystans: 129,53 metrow polaczone drogo: Smocza
+	Nodee Id: 278063890 lat: 50.052403 lon: 19.9402367 dystans: 353,90 metrow polaczone drogo: Koletek
+
+Node Id: 2593195251 lat: 50.0536079 lon: 19.9380262
+	Nodee Id: 236136829 lat: 50.0524698 lon: 19.9351564 dystans: 240,82 metrow polaczone drogo: Bernardyñska
+	Nodee Id: 236136675 lat: 50.0540859 lon: 19.9391841 dystans: 98,28 metrow polaczone drogo: Bernardyñska
+
+Node Id: 2990670910 lat: 50.0543856 lon: 19.9386994
+	Nodee Id: 236136675 lat: 50.0540859 lon: 19.9391841 dystans: 48,04 metrow polaczone drogo: Œwiêtego Idziego
+	Nodee Id: 236136675 lat: 50.0540859 lon: 19.9391841 dystans: 48,04 metrow polaczone drogo: Œwiêtego Idziego
+	Nodee Id: 3721726318 lat: 50.0544959 lon: 19.9385385 dystans: 16,80 metrow polaczone drogo: Œwiêtego Idziego
+
+Node Id: 236136675 lat: 50.0540859 lon: 19.9391841
+	Nodee Id: 2990670910 lat: 50.0543856 lon: 19.9386994 dystans: 48,04 metrow polaczone drogo: Œwiêtego Idziego
+	Nodee Id: 2418596893 lat: 50.0518729 lon: 19.9414963 dystans: 296,32 metrow polaczone drogo: Stradomska
+	Nodee Id: 30372096 lat: 50.0589162 lon: 19.9412015 dystans: 556,08 metrow polaczone drogo: Œwiêtej Gertrudy
+	Nodee Id: 2593195251 lat: 50.0536079 lon: 19.9380262 dystans: 98,28 metrow polaczone drogo: Bernardyñska
+	Nodee Id: 2990670910 lat: 50.0543856 lon: 19.9386994 dystans: 48,04 metrow polaczone drogo: Œwiêtego Idziego
+
+Node Id: 236150723 lat: 50.06475 lon: 19.9243556
+	Nodee Id: 1875729775 lat: 50.0658134 lon: 19.9244298 dystans: 118,36 metrow polaczone drogo: Czarnowiejska
+	Nodee Id: 1676074020 lat: 50.0657553 lon: 19.924789 dystans: 115,99 metrow polaczone drogo: Aleja Adama Mickiewicza
+	Nodee Id: 4306409281 lat: 50.0644921 lon: 19.9242765 dystans: 29,23 metrow polaczone drogo: Aleja Adama Mickiewicza
+
+Node Id: 1875729775 lat: 50.0658134 lon: 19.9244298
+	Nodee Id: 236150723 lat: 50.06475 lon: 19.9243556 dystans: 118,36 metrow polaczone drogo: Czarnowiejska
+	Nodee Id: 2106196385 lat: 50.065836 lon: 19.9243328 dystans: 7,37 metrow polaczone drogo: Czarnowiejska
+	Nodee Id: 236313351 lat: 50.0659452 lon: 19.9243694 dystans: 15,28 metrow polaczone drogo: Czarnowiejska
+	Nodee Id: 1676074020 lat: 50.0657553 lon: 19.924789 dystans: 26,44 metrow polaczone drogo: Czarnowiejska
+
+Node Id: 207437138 lat: 50.0658217 lon: 19.9248162
+	Nodee Id: 236313351 lat: 50.0659452 lon: 19.9243694 dystans: 34,72 metrow polaczone drogo: Czarnowiejska
+	Nodee Id: 240971029 lat: 50.0690011 lon: 19.9266041 dystans: 375,86 metrow polaczone drogo: Aleja Adama Mickiewicza
+	Nodee Id: 1676074020 lat: 50.0657553 lon: 19.924789 dystans: 7,63 metrow polaczone drogo: Aleja Adama Mickiewicza
+	Nodee Id: 1676074015 lat: 50.0657075 lon: 19.9252246 dystans: 31,80 metrow polaczone drogo: Czarnowiejska
+
+Node Id: 236313351 lat: 50.0659452 lon: 19.9243694
+	Nodee Id: 207437138 lat: 50.0658217 lon: 19.9248162 dystans: 34,72 metrow polaczone drogo: Czarnowiejska
+	Nodee Id: 1676326498 lat: 50.0663448 lon: 19.922747 dystans: 124,03 metrow polaczone drogo: Czarnowiejska
+	Nodee Id: 2106196385 lat: 50.065836 lon: 19.9243328 dystans: 12,42 metrow polaczone drogo: Aleja Adama Mickiewicza
+	Nodee Id: 261677470 lat: 50.0678267 lon: 19.9253278 dystans: 220,11 metrow polaczone drogo: Aleja Adama Mickiewicza
+	Nodee Id: 1875729775 lat: 50.0658134 lon: 19.9244298 dystans: 15,28 metrow polaczone drogo: Czarnowiejska
+
+Node Id: 494604313 lat: 50.070089 lon: 19.9250791
+	Nodee Id: 273459781 lat: 50.0705794 lon: 19.9237371 dystans: 110,21 metrow polaczone drogo: Królewska
+	Nodee Id: 724399317 lat: 50.0698035 lon: 19.9255017 dystans: 43,79 metrow polaczone drogo: Królewska
+	Nodee Id: 207435827 lat: 50.0692864 lon: 19.9263503 dystans: 127,26 metrow polaczone drogo: Królewska
+
+Node Id: 240971029 lat: 50.0690011 lon: 19.9266041
+	Nodee Id: 265517216 lat: 50.0683923 lon: 19.9273071 dystans: 84,26 metrow polaczone drogo: Karmelicka
+	Nodee Id: 265517208 lat: 50.0700123 lon: 19.9272855 dystans: 122,51 metrow polaczone drogo: Aleja Juliusza S³owackiego
+	Nodee Id: 207435827 lat: 50.0692864 lon: 19.9263503 dystans: 36,53 metrow polaczone drogo: Królewska
+	Nodee Id: 2468665585 lat: 50.0692018 lon: 19.9262873 dystans: 31,77 metrow polaczone drogo: Królewska
+	Nodee Id: 207437138 lat: 50.0658217 lon: 19.9248162 dystans: 375,86 metrow polaczone drogo: Aleja Adama Mickiewicza
+
+Node Id: 265517216 lat: 50.0683923 lon: 19.9273071
+	Nodee Id: 240971029 lat: 50.0690011 lon: 19.9266041 dystans: 84,26 metrow polaczone drogo: Karmelicka
+	Nodee Id: 254349499 lat: 50.0691463 lon: 19.9329551 dystans: 411,74 metrow polaczone drogo: Henryka Siemiradzkiego
+	Nodee Id: 240971032 lat: 50.0650293 lon: 19.9313149 dystans: 470,82 metrow polaczone drogo: Karmelicka
+
+Node Id: 1913875705 lat: 50.0620203 lon: 19.9392587
+	Nodee Id: 2519217709 lat: 50.0616829 lon: 19.940424 dystans: 91,25 metrow polaczone drogo: Plac Mariacki
+	Nodee Id: 1913862675 lat: 50.0620135 lon: 19.9388825 dystans: 26,86 metrow polaczone drogo: Rynek G³ówny
+
+Node Id: 2519217709 lat: 50.0616829 lon: 19.940424
+	Nodee Id: 1913875705 lat: 50.0620203 lon: 19.9392587 dystans: 91,25 metrow polaczone drogo: Plac Mariacki
+	Nodee Id: 2107295305 lat: 50.0616252 lon: 19.9404399 dystans: 6,52 metrow polaczone drogo: Ma³y Rynek
+	Nodee Id: 251678246 lat: 50.0615537 lon: 19.940856 dystans: 34,02 metrow polaczone drogo: Miko³ajska
+	Nodee Id: 30375871 lat: 50.0624808 lon: 19.941007 dystans: 98,00 metrow polaczone drogo: Szpitalna
+
+Node Id: 251688939 lat: 50.0626356 lon: 19.9321021
+	Nodee Id: 1417479896 lat: 50.0626013 lon: 19.9322356 dystans: 10,26 metrow polaczone drogo: Œwiêtej Anny
+	Nodee Id: 257661109 lat: 50.0625945 lon: 19.930309 dystans: 128,08 metrow polaczone drogo: Studencka
+	Nodee Id: 2419894894 lat: 50.0634183 lon: 19.9329642 dystans: 106,59 metrow polaczone drogo: Podwale
+	Nodee Id: 2419894856 lat: 50.0619394 lon: 19.9317797 dystans: 80,76 metrow polaczone drogo: Podwale
+
+Node Id: 1417479896 lat: 50.0626013 lon: 19.9322356
+	Nodee Id: 251688939 lat: 50.0626356 lon: 19.9321021 dystans: 10,26 metrow polaczone drogo: Œwiêtej Anny
+	Nodee Id: 2574619492 lat: 50.0613666 lon: 19.9354189 dystans: 265,49 metrow polaczone drogo: Œwiêtej Anny
+
+Node Id: 1913862673 lat: 50.0620126 lon: 19.9363194
+	Nodee Id: 2110897859 lat: 50.0620961 lon: 19.9360916 dystans: 18,72 metrow polaczone drogo: Szewska
+	Nodee Id: 2503559226 lat: 50.0617687 lon: 19.937134 dystans: 64,16 metrow polaczone drogo:  
+
+Node Id: 2110897859 lat: 50.0620961 lon: 19.9360916
+	Nodee Id: 1913862673 lat: 50.0620126 lon: 19.9363194 dystans: 18,72 metrow polaczone drogo: Szewska
+	Nodee Id: 256620826 lat: 50.062523 lon: 19.9349872 dystans: 92,02 metrow polaczone drogo: Szewska
+
+Node Id: 2104495834 lat: 50.0636309 lon: 19.9348424
+	Nodee Id: 206372380 lat: 50.0640861 lon: 19.9337123 dystans: 95,23 metrow polaczone drogo: Szczepañska
+	Nodee Id: 273473988 lat: 50.0642307 lon: 19.9353435 dystans: 75,68 metrow polaczone drogo: Plac Szczepañski
+
+Node Id: 2574619487 lat: 50.0613062 lon: 19.9354399
+	Nodee Id: 251689118 lat: 50.0606209 lon: 19.9348253 dystans: 87,93 metrow polaczone drogo: Wiœlna
+	Nodee Id: 2574619492 lat: 50.0613666 lon: 19.9354189 dystans: 6,88 metrow polaczone drogo: Rynek G³ówny
+
+Node Id: 251689118 lat: 50.0606209 lon: 19.9348253
+	Nodee Id: 2574619487 lat: 50.0613062 lon: 19.9354399 dystans: 87,93 metrow polaczone drogo: Wiœlna
+	Nodee Id: 2111187753 lat: 50.0612295 lon: 19.9330557 dystans: 143,31 metrow polaczone drogo: Go³êbia
+	Nodee Id: 251690116 lat: 50.0602198 lon: 19.9362505 dystans: 111,08 metrow polaczone drogo: Go³êbia
+	Nodee Id: 251690121 lat: 50.0600354 lon: 19.9343637 dystans: 72,97 metrow polaczone drogo: Wiœlna
+
+Node Id: 1913862666 lat: 50.061084 lon: 19.9367082
+	Nodee Id: 2110897847 lat: 50.0609405 lon: 19.9365806 dystans: 18,37 metrow polaczone drogo: Bracka
+	Nodee Id: 2503558048 lat: 50.0612746 lon: 19.9369692 dystans: 28,22 metrow polaczone drogo:  
+
+Node Id: 2110897847 lat: 50.0609405 lon: 19.9365806
+	Nodee Id: 1913862666 lat: 50.061084 lon: 19.9367082 dystans: 18,37 metrow polaczone drogo: Bracka
+	Nodee Id: 251690116 lat: 50.0602198 lon: 19.9362505 dystans: 83,53 metrow polaczone drogo: Bracka
+
+Node Id: 207469743 lat: 50.0576182 lon: 19.9460143
+	Nodee Id: 1200446245 lat: 50.0578187 lon: 19.9457052 dystans: 31,37 metrow polaczone drogo: Wielopole
+	Nodee Id: 2262141618 lat: 50.0578517 lon: 19.9462152 dystans: 29,66 metrow polaczone drogo: Józefa Dietla
+	Nodee Id: 2262145782 lat: 50.057246 lon: 19.945741 dystans: 45,76 metrow polaczone drogo: Józefa Dietla
+
+Node Id: 1200446245 lat: 50.0578187 lon: 19.9457052
+	Nodee Id: 207469743 lat: 50.0576182 lon: 19.9460143 dystans: 31,37 metrow polaczone drogo: Wielopole
+	Nodee Id: 254348392 lat: 50.05853 lon: 19.9447567 dystans: 104,12 metrow polaczone drogo: Wielopole
+	Nodee Id: 1200446215 lat: 50.0571106 lon: 19.9450693 dystans: 90,89 metrow polaczone drogo: Józefa Dietla
+
+Node Id: 251690393 lat: 50.0608517 lon: 19.9397419
+	Nodee Id: 2419768573 lat: 50.0592199 lon: 19.9387187 dystans: 195,60 metrow polaczone drogo: Stolarska
+	Nodee Id: 272798927 lat: 50.0608454 lon: 19.9398548 dystans: 8,09 metrow polaczone drogo: Sienna
+	Nodee Id: 2110897851 lat: 50.0612331 lon: 19.9385017 dystans: 98,16 metrow polaczone drogo: Sienna
+
+Node Id: 2419768573 lat: 50.0592199 lon: 19.9387187
+	Nodee Id: 251690393 lat: 50.0608517 lon: 19.9397419 dystans: 195,60 metrow polaczone drogo: Stolarska
+	Nodee Id: 2509782477 lat: 50.0591732 lon: 19.9379694 dystans: 53,74 metrow polaczone drogo: Plac Dominikañski
+	Nodee Id: 2419768569 lat: 50.0591021 lon: 19.9387054 dystans: 13,13 metrow polaczone drogo: Stolarska
+
+Node Id: 251688755 lat: 50.0653243 lon: 19.9387072
+	Nodee Id: 251689852 lat: 50.0653701 lon: 19.9367599 dystans: 139,09 metrow polaczone drogo: Pijarska
+	Nodee Id: 30376047 lat: 50.0643157 lon: 19.9380193 dystans: 122,43 metrow polaczone drogo: S³awkowska
+	Nodee Id: 251689743 lat: 50.0647665 lon: 19.9397421 dystans: 96,46 metrow polaczone drogo: Pijarska
+	Nodee Id: 2597283213 lat: 50.0658895 lon: 19.9390543 dystans: 67,55 metrow polaczone drogo: S³awkowska
+
+Node Id: 251689852 lat: 50.0653701 lon: 19.9367599
+	Nodee Id: 251688755 lat: 50.0653243 lon: 19.9387072 dystans: 139,09 metrow polaczone drogo: Pijarska
+	Nodee Id: 251689850 lat: 50.0648458 lon: 19.936904 dystans: 59,20 metrow polaczone drogo: Œwiêtego Marka
+
+Node Id: 226835922 lat: 50.061175 lon: 19.9441216
+	Nodee Id: 276498392 lat: 50.0612344 lon: 19.9473341 dystans: 229,42 metrow polaczone drogo: Miko³aja Kopernika
+	Nodee Id: 226836020 lat: 50.060746 lon: 19.9437267 dystans: 55,41 metrow polaczone drogo: Westerplatte
+	Nodee Id: 278189882 lat: 50.0627778 lon: 19.9449661 dystans: 188,14 metrow polaczone drogo: Westerplatte
+	Nodee Id: 251689494 lat: 50.0612771 lon: 19.9418132 dystans: 165,17 metrow polaczone drogo: Miko³ajska
+
+Node Id: 276498392 lat: 50.0612344 lon: 19.9473341
+	Nodee Id: 226835922 lat: 50.061175 lon: 19.9441216 dystans: 229,42 metrow polaczone drogo: Miko³aja Kopernika
+	Nodee Id: 311337266 lat: 50.0645937 lon: 19.9465154 dystans: 378,08 metrow polaczone drogo: Radziwi³³owska
+	Nodee Id: 278186364 lat: 50.0614403 lon: 19.9478824 dystans: 45,34 metrow polaczone drogo: Miko³aja Kopernika
+
+Node Id: 2499424236 lat: 50.0580309 lon: 19.9252272
+	Nodee Id: 207439167 lat: 50.0581534 lon: 19.9256441 dystans: 32,73 metrow polaczone drogo: Zbigniewa Dunin-W¹sowicza
+	Nodee Id: 251693126 lat: 50.0572143 lon: 19.9229888 dystans: 183,79 metrow polaczone drogo: Zbigniewa Dunin-W¹sowicza
+
+Node Id: 207439167 lat: 50.0581534 lon: 19.9256441
+	Nodee Id: 2499424236 lat: 50.0580309 lon: 19.9252272 dystans: 32,73 metrow polaczone drogo: Zbigniewa Dunin-W¹sowicza
+	Nodee Id: 226214987 lat: 50.0592915 lon: 19.9248525 dystans: 138,59 metrow polaczone drogo: Aleja Zygmunta Krasiñskiego
+	Nodee Id: 207439169 lat: 50.055986 lon: 19.926883 dystans: 256,72 metrow polaczone drogo: Aleja Zygmunta Krasiñskiego
+
+Node Id: 251693213 lat: 50.0560126 lon: 19.9240361
+	Nodee Id: 3776760941 lat: 50.0560632 lon: 19.9239909 dystans: 6,49 metrow polaczone drogo: W³óczków
+	Nodee Id: 251693232 lat: 50.0552789 lon: 19.9221976 dystans: 154,54 metrow polaczone drogo: Micha³a Stachowicza
+	Nodee Id: 251693214 lat: 50.0553988 lon: 19.9247456 dystans: 84,99 metrow polaczone drogo: W³óczków
+
+Node Id: 3776760941 lat: 50.0560632 lon: 19.9239909
+	Nodee Id: 251693213 lat: 50.0560126 lon: 19.9240361 dystans: 6,49 metrow polaczone drogo: W³óczków
+	Nodee Id: 3776760942 lat: 50.056274 lon: 19.9237757 dystans: 28,03 metrow polaczone drogo: W³óczków
+
+Node Id: 251767751 lat: 50.0527492 lon: 19.9464057
+	Nodee Id: 251767744 lat: 50.0524491 lon: 19.945766 dystans: 56,56 metrow polaczone drogo: Jonatana Warszauera
+	Nodee Id: 32122178 lat: 50.0531358 lon: 19.9462155 dystans: 45,08 metrow polaczone drogo: Jakuba
+	Nodee Id: 251767765 lat: 50.0512059 lon: 19.9470884 dystans: 178,40 metrow polaczone drogo: Jakuba
+
+Node Id: 251767744 lat: 50.0524491 lon: 19.945766
+	Nodee Id: 251767751 lat: 50.0527492 lon: 19.9464057 dystans: 56,56 metrow polaczone drogo: Jonatana Warszauera
+	Nodee Id: 251767743 lat: 50.0514815 lon: 19.9462015 dystans: 112,00 metrow polaczone drogo: Kupa
+	Nodee Id: 278196771 lat: 50.0521564 lon: 19.9451273 dystans: 56,02 metrow polaczone drogo: Jonatana Warszauera
+
+Node Id: 32122178 lat: 50.0531358 lon: 19.9462155
+	Nodee Id: 251767751 lat: 50.0527492 lon: 19.9464057 dystans: 45,08 metrow polaczone drogo: Jakuba
+	Nodee Id: 32122180 lat: 50.0541191 lon: 19.9456923 dystans: 115,54 metrow polaczone drogo: Brzozowa
+	Nodee Id: 264464994 lat: 50.0536589 lon: 19.9484026 dystans: 166,63 metrow polaczone drogo: Miodowa
+	Nodee Id: 251767753 lat: 50.0520611 lon: 19.9431644 dystans: 248,46 metrow polaczone drogo: Miodowa
+
+Node Id: 254349499 lat: 50.0691463 lon: 19.9329551
+	Nodee Id: 265517216 lat: 50.0683923 lon: 19.9273071 dystans: 411,74 metrow polaczone drogo: Henryka Siemiradzkiego
+	Nodee Id: 1415947584 lat: 50.0692743 lon: 19.9335038 dystans: 41,67 metrow polaczone drogo: W³adys³awa Spasowskiego
+
+Node Id: 30375913 lat: 50.0601622 lon: 19.9376852
+	Nodee Id: 3721187399 lat: 50.0591551 lon: 19.9378495 dystans: 112,60 metrow polaczone drogo: Grodzka
+	Nodee Id: 1913862631 lat: 50.060633 lon: 19.9376424 dystans: 52,44 metrow polaczone drogo: Rynek G³ówny
+
+Node Id: 3721187399 lat: 50.0591551 lon: 19.9378495
+	Nodee Id: 30375913 lat: 50.0601622 lon: 19.9376852 dystans: 112,60 metrow polaczone drogo: Grodzka
+	Nodee Id: 290148694 lat: 50.0591231 lon: 19.9378554 dystans: 3,58 metrow polaczone drogo: Grodzka
+
+Node Id: 30375927 lat: 50.0576649 lon: 19.9380774
+	Nodee Id: 256620821 lat: 50.057758 lon: 19.9389253 dystans: 61,41 metrow polaczone drogo: Senacka
+	Nodee Id: 256620824 lat: 50.0579842 lon: 19.9367082 dystans: 103,99 metrow polaczone drogo: Senacka
+	Nodee Id: 3721187387 lat: 50.0569604 lon: 19.9381436 dystans: 78,48 metrow polaczone drogo: Grodzka
+	Nodee Id: 30375924 lat: 50.0581435 lon: 19.9380029 dystans: 53,48 metrow polaczone drogo: Grodzka
+
+Node Id: 290148694 lat: 50.0591231 lon: 19.9378554
+	Nodee Id: 2419768569 lat: 50.0591021 lon: 19.9387054 dystans: 60,72 metrow polaczone drogo: Plac Dominikañski
+	Nodee Id: 30375924 lat: 50.0581435 lon: 19.9380029 dystans: 109,43 metrow polaczone drogo: Grodzka
+	Nodee Id: 571611842 lat: 50.059197 lon: 19.9369534 dystans: 64,91 metrow polaczone drogo: Plac Wszystkich Œwiêtych
+	Nodee Id: 3721187399 lat: 50.0591551 lon: 19.9378495 dystans: 3,58 metrow polaczone drogo: Grodzka
+	Nodee Id: 2509782477 lat: 50.0591732 lon: 19.9379694 dystans: 9,86 metrow polaczone drogo:  
+
+Node Id: 2419768569 lat: 50.0591021 lon: 19.9387054
+	Nodee Id: 290148694 lat: 50.0591231 lon: 19.9378554 dystans: 60,72 metrow polaczone drogo: Plac Dominikañski
+	Nodee Id: 2419768573 lat: 50.0592199 lon: 19.9387187 dystans: 13,13 metrow polaczone drogo: Stolarska
+	Nodee Id: 30372096 lat: 50.0589162 lon: 19.9412015 dystans: 179,38 metrow polaczone drogo: Dominikañska
+
+Node Id: 251689743 lat: 50.0647665 lon: 19.9397421
+	Nodee Id: 251689744 lat: 50.063982 lon: 19.9391896 dystans: 95,73 metrow polaczone drogo: Œwiêtego Jana
+	Nodee Id: 2620270143 lat: 50.064805 lon: 19.9403092 dystans: 40,70 metrow polaczone drogo: Pijarska
+	Nodee Id: 251688755 lat: 50.0653243 lon: 19.9387072 dystans: 96,46 metrow polaczone drogo: Pijarska
+
+Node Id: 251689745 lat: 50.0631804 lon: 19.9386136
+	Nodee Id: 251689744 lat: 50.063982 lon: 19.9391896 dystans: 98,16 metrow polaczone drogo: Œwiêtego Jana
+	Nodee Id: 251689483 lat: 50.0628627 lon: 19.9398275 dystans: 93,57 metrow polaczone drogo: Œwiêtego Tomasza
+	Nodee Id: 2110897868 lat: 50.062468 lon: 19.9380846 dystans: 87,75 metrow polaczone drogo: Œwiêtego Jana
+	Nodee Id: 251689478 lat: 50.0639732 lon: 19.9361602 dystans: 196,06 metrow polaczone drogo: Œwiêtego Tomasza
+
+Node Id: 30376047 lat: 50.0643157 lon: 19.9380193
+	Nodee Id: 251688755 lat: 50.0653243 lon: 19.9387072 dystans: 122,43 metrow polaczone drogo: S³awkowska
+	Nodee Id: 256625831 lat: 50.0635622 lon: 19.9374754 dystans: 92,34 metrow polaczone drogo: S³awkowska
+
+Node Id: 257659338 lat: 50.0634074 lon: 19.928049
+	Nodee Id: 236151807 lat: 50.0622572 lon: 19.9237442 dystans: 332,84 metrow polaczone drogo: Krupnicza
+	Nodee Id: 273532899 lat: 50.0634901 lon: 19.9291953 dystans: 82,34 metrow polaczone drogo: Krupnicza
+	Nodee Id: 261677469 lat: 50.0644941 lon: 19.9275976 dystans: 125,06 metrow polaczone drogo: Dolnych M³ynów
+
+Node Id: 236151807 lat: 50.0622572 lon: 19.9237442
+	Nodee Id: 257659338 lat: 50.0634074 lon: 19.928049 dystans: 332,84 metrow polaczone drogo: Krupnicza
+	Nodee Id: 273532987 lat: 50.0609267 lon: 19.924392 dystans: 155,00 metrow polaczone drogo: Aleja Adama Mickiewicza
+	Nodee Id: 1325703552 lat: 50.0631176 lon: 19.9238151 dystans: 95,81 metrow polaczone drogo: Aleja Adama Mickiewicza
+
+Node Id: 257661109 lat: 50.0625945 lon: 19.930309
+	Nodee Id: 251688939 lat: 50.0626356 lon: 19.9321021 dystans: 128,08 metrow polaczone drogo: Studencka
+	Nodee Id: 257661100 lat: 50.0634819 lon: 19.9303511 dystans: 98,72 metrow polaczone drogo: Loretañska
+	Nodee Id: 266695289 lat: 50.0623099 lon: 19.9277351 dystans: 186,44 metrow polaczone drogo: Studencka
+	Nodee Id: 273535365 lat: 50.061063 lon: 19.9304777 dystans: 170,72 metrow polaczone drogo: Loretañska
+
+Node Id: 2419894856 lat: 50.0619394 lon: 19.9317797
+	Nodee Id: 257661136 lat: 50.0619286 lon: 19.9305613 dystans: 86,98 metrow polaczone drogo: Kapucyñska
+	Nodee Id: 2419367482 lat: 50.060506 lon: 19.9324181 dystans: 165,77 metrow polaczone drogo: Floriana Straszewskiego
+	Nodee Id: 251688939 lat: 50.0626356 lon: 19.9321021 dystans: 80,76 metrow polaczone drogo: Podwale
+
+Node Id: 261675297 lat: 50.0675376 lon: 19.9338439
+	Nodee Id: 1963269980 lat: 50.0708182 lon: 19.931554 dystans: 399,72 metrow polaczone drogo: £obzowska
+	Nodee Id: 254349502 lat: 50.0668828 lon: 19.9290473 dystans: 350,01 metrow polaczone drogo: Stefana Batorego
+	Nodee Id: 1417479968 lat: 50.0672747 lon: 19.9339713 dystans: 30,61 metrow polaczone drogo: £obzowska
+
+Node Id: 226009897 lat: 50.0658214 lon: 19.9345841
+	Nodee Id: 226009912 lat: 50.0658293 lon: 19.9351041 dystans: 37,13 metrow polaczone drogo: Garbarska
+	Nodee Id: 240971033 lat: 50.0647502 lon: 19.9316397 dystans: 241,57 metrow polaczone drogo: Garbarska
+	Nodee Id: 1417479968 lat: 50.0672747 lon: 19.9339713 dystans: 167,41 metrow polaczone drogo: £obzowska
+
+Node Id: 226009912 lat: 50.0658293 lon: 19.9351041
+	Nodee Id: 226009897 lat: 50.0658214 lon: 19.9345841 dystans: 37,13 metrow polaczone drogo: Garbarska
+	Nodee Id: 226009919 lat: 50.065658 lon: 19.9354571 dystans: 31,59 metrow polaczone drogo: Garbarska
+
+Node Id: 240971033 lat: 50.0647502 lon: 19.9316397
+	Nodee Id: 226009897 lat: 50.0658214 lon: 19.9345841 dystans: 241,57 metrow polaczone drogo: Garbarska
+	Nodee Id: 2419894894 lat: 50.0634183 lon: 19.9329642 dystans: 175,70 metrow polaczone drogo: Karmelicka
+	Nodee Id: 240971032 lat: 50.0650293 lon: 19.9313149 dystans: 38,74 metrow polaczone drogo: Karmelicka
+
+Node Id: 226834098 lat: 50.0692676 lon: 19.9378938
+	Nodee Id: 226010076 lat: 50.0689509 lon: 19.9368599 dystans: 81,76 metrow polaczone drogo: S³owiañska
+	Nodee Id: 261745757 lat: 50.0688455 lon: 19.9382691 dystans: 54,04 metrow polaczone drogo: D³uga
+	Nodee Id: 262199980 lat: 50.0723693 lon: 19.9358527 dystans: 374,40 metrow polaczone drogo: D³uga
+
+Node Id: 261673880 lat: 50.069024 lon: 19.9367765
+	Nodee Id: 261673879 lat: 50.0693642 lon: 19.9377967 dystans: 82,05 metrow polaczone drogo: S³owiañska
+	Nodee Id: 206372388 lat: 50.066243 lon: 19.9383832 dystans: 329,81 metrow polaczone drogo: Krowoderska
+	Nodee Id: 2173723145 lat: 50.0722342 lon: 19.9320463 dystans: 491,31 metrow polaczone drogo: Krowoderska
+
+Node Id: 206372388 lat: 50.066243 lon: 19.9383832
+	Nodee Id: 261673880 lat: 50.069024 lon: 19.9367765 dystans: 329,81 metrow polaczone drogo: Krowoderska
+	Nodee Id: 226009919 lat: 50.065658 lon: 19.9354571 dystans: 218,75 metrow polaczone drogo: Basztowa
+	Nodee Id: 261747338 lat: 50.0662729 lon: 19.9391219 dystans: 52,83 metrow polaczone drogo: Basztowa
+
+Node Id: 1417479968 lat: 50.0672747 lon: 19.9339713
+	Nodee Id: 261675298 lat: 50.0673687 lon: 19.9347388 dystans: 55,77 metrow polaczone drogo: Biskupia
+	Nodee Id: 261675297 lat: 50.0675376 lon: 19.9338439 dystans: 30,61 metrow polaczone drogo: £obzowska
+	Nodee Id: 226009897 lat: 50.0658214 lon: 19.9345841 dystans: 167,41 metrow polaczone drogo: £obzowska
+
+Node Id: 261675298 lat: 50.0673687 lon: 19.9347388
+	Nodee Id: 1417479968 lat: 50.0672747 lon: 19.9339713 dystans: 55,77 metrow polaczone drogo: Biskupia
+	Nodee Id: 257686083 lat: 50.0678514 lon: 19.9375282 dystans: 206,20 metrow polaczone drogo: Biskupia
+	Nodee Id: 226010068 lat: 50.0675854 lon: 19.9376723 dystans: 210,76 metrow polaczone drogo: Biskupia
+	Nodee Id: 261675306 lat: 50.065903 lon: 19.9351131 dystans: 165,15 metrow polaczone drogo: Adama Asnyka
+
+Node Id: 240971032 lat: 50.0650293 lon: 19.9313149
+	Nodee Id: 261677469 lat: 50.0644941 lon: 19.9275976 dystans: 271,93 metrow polaczone drogo: Rajska
+	Nodee Id: 265517216 lat: 50.0683923 lon: 19.9273071 dystans: 470,82 metrow polaczone drogo: Karmelicka
+	Nodee Id: 240971033 lat: 50.0647502 lon: 19.9316397 dystans: 38,74 metrow polaczone drogo: Karmelicka
+
+Node Id: 261677469 lat: 50.0644941 lon: 19.9275976
+	Nodee Id: 240971032 lat: 50.0650293 lon: 19.9313149 dystans: 271,93 metrow polaczone drogo: Rajska
+	Nodee Id: 257659338 lat: 50.0634074 lon: 19.928049 dystans: 125,06 metrow polaczone drogo: Dolnych M³ynów
+	Nodee Id: 262201256 lat: 50.0652943 lon: 19.9271591 dystans: 94,32 metrow polaczone drogo: Dolnych M³ynów
+
+Node Id: 261677470 lat: 50.0678267 lon: 19.9253278
+	Nodee Id: 261677475 lat: 50.067649 lon: 19.925729 dystans: 34,79 metrow polaczone drogo:  
+	Nodee Id: 31349965 lat: 50.0682665 lon: 19.9256069 dystans: 52,81 metrow polaczone drogo: Aleja Adama Mickiewicza
+	Nodee Id: 236313351 lat: 50.0659452 lon: 19.9243694 dystans: 220,11 metrow polaczone drogo: Aleja Adama Mickiewicza
+
+Node Id: 261708613 lat: 50.0577754 lon: 19.9467593
+	Nodee Id: 261708615 lat: 50.0581851 lon: 19.9468737 dystans: 46,28 metrow polaczone drogo: Józefa Dietla
+	Nodee Id: 2262608105 lat: 50.0574705 lon: 19.9465404 dystans: 37,33 metrow polaczone drogo: Józefa Dietla
+	Nodee Id: 2262608106 lat: 50.058176 lon: 19.9471543 dystans: 52,72 metrow polaczone drogo: Józefa Dietla
+
+Node Id: 261708615 lat: 50.0581851 lon: 19.9468737
+	Nodee Id: 261708613 lat: 50.0577754 lon: 19.9467593 dystans: 46,28 metrow polaczone drogo: Józefa Dietla
+	Nodee Id: 207469742 lat: 50.0583038 lon: 19.9467249 dystans: 16,94 metrow polaczone drogo: Józefa Dietla
+	Nodee Id: 262695411 lat: 50.0581778 lon: 19.9465294 dystans: 24,59 metrow polaczone drogo: Józefa Dietla
+
+Node Id: 226836665 lat: 50.0595852 lon: 19.9421295
+	Nodee Id: 2098694945 lat: 50.0576892 lon: 19.9440834 dystans: 252,79 metrow polaczone drogo: Starowiœlna
+	Nodee Id: 30372096 lat: 50.0589162 lon: 19.9412015 dystans: 99,61 metrow polaczone drogo: Œwiêtej Gertrudy
+	Nodee Id: 272798925 lat: 50.060723 lon: 19.9402552 dystans: 184,14 metrow polaczone drogo: Sienna
+	Nodee Id: 226836020 lat: 50.060746 lon: 19.9437267 dystans: 172,22 metrow polaczone drogo: Westerplatte
+	Nodee Id: 254348392 lat: 50.05853 lon: 19.9447567 dystans: 221,23 metrow polaczone drogo: Wielopole
+
+Node Id: 2098694945 lat: 50.0576892 lon: 19.9440834
+	Nodee Id: 226836665 lat: 50.0595852 lon: 19.9421295 dystans: 252,79 metrow polaczone drogo: Starowiœlna
+	Nodee Id: 2262210339 lat: 50.0570602 lon: 19.9447222 dystans: 83,50 metrow polaczone drogo: Starowiœlna
+
+Node Id: 1936191716 lat: 50.0675382 lon: 19.9427815
+	Nodee Id: 261745757 lat: 50.0688455 lon: 19.9382691 dystans: 353,35 metrow polaczone drogo: Œwiêtego Filipa
+	Nodee Id: 1936191714 lat: 50.0674043 lon: 19.9427174 dystans: 15,58 metrow polaczone drogo: Plac Jana Matejki
+	Nodee Id: 207428883 lat: 50.0688615 lon: 19.9433694 dystans: 153,01 metrow polaczone drogo: Warszawska
+
+Node Id: 261745757 lat: 50.0688455 lon: 19.9382691
+	Nodee Id: 1936191716 lat: 50.0675382 lon: 19.9427815 dystans: 353,35 metrow polaczone drogo: Œwiêtego Filipa
+	Nodee Id: 272783544 lat: 50.0675752 lon: 19.9386721 dystans: 144,15 metrow polaczone drogo: D³uga
+	Nodee Id: 226834098 lat: 50.0692676 lon: 19.9378938 dystans: 54,04 metrow polaczone drogo: D³uga
+
+Node Id: 226009919 lat: 50.065658 lon: 19.9354571
+	Nodee Id: 206372388 lat: 50.066243 lon: 19.9383832 dystans: 218,75 metrow polaczone drogo: Basztowa
+	Nodee Id: 226009912 lat: 50.0658293 lon: 19.9351041 dystans: 31,59 metrow polaczone drogo: Garbarska
+	Nodee Id: 206372380 lat: 50.0640861 lon: 19.9337123 dystans: 214,62 metrow polaczone drogo: Juliana Dunajewskiego
+
+Node Id: 2067207841 lat: 50.0553014 lon: 19.9348386
+	Nodee Id: 2067207837 lat: 50.0550083 lon: 19.9334588 dystans: 103,76 metrow polaczone drogo: Podzamcze
+	Nodee Id: 2419367407 lat: 50.0587045 lon: 19.9332501 dystans: 395,03 metrow polaczone drogo: Floriana Straszewskiego
+	Nodee Id: 273485828 lat: 50.0554177 lon: 19.9368011 dystans: 140,70 metrow polaczone drogo: Podzamcze
+
+Node Id: 2067207837 lat: 50.0550083 lon: 19.9334588
+	Nodee Id: 2067207841 lat: 50.0553014 lon: 19.9348386 dystans: 103,76 metrow polaczone drogo: Podzamcze
+	Nodee Id: 2403443561 lat: 50.0551868 lon: 19.9326157 dystans: 63,38 metrow polaczone drogo: Powiœle
+
+Node Id: 236137518 lat: 50.0552981 lon: 19.9374784
+	Nodee Id: 273485828 lat: 50.0554177 lon: 19.9368011 dystans: 50,15 metrow polaczone drogo: Podzamcze
+	Nodee Id: 236138215 lat: 50.0548159 lon: 19.9380119 dystans: 65,77 metrow polaczone drogo: Œwiêtego Idziego
+
+Node Id: 273485828 lat: 50.0554177 lon: 19.9368011
+	Nodee Id: 236137518 lat: 50.0552981 lon: 19.9374784 dystans: 50,15 metrow polaczone drogo: Podzamcze
+	Nodee Id: 1517013550 lat: 50.0556227 lon: 19.9369273 dystans: 24,51 metrow polaczone drogo: Kanonicza
+	Nodee Id: 2067207841 lat: 50.0553014 lon: 19.9348386 dystans: 140,70 metrow polaczone drogo: Podzamcze
+
+Node Id: 262193751 lat: 50.0656981 lon: 19.9418248
+	Nodee Id: 226834588 lat: 50.0672499 lon: 19.9428678 dystans: 187,93 metrow polaczone drogo: Plac Jana Matejki
+	Nodee Id: 2420153454 lat: 50.065279 lon: 19.943047 dystans: 98,90 metrow polaczone drogo: Basztowa
+	Nodee Id: 414635892 lat: 50.0657808 lon: 19.9415739 dystans: 20,13 metrow polaczone drogo: Basztowa
+
+Node Id: 1936191714 lat: 50.0674043 lon: 19.9427174
+	Nodee Id: 414635892 lat: 50.0657808 lon: 19.9415739 dystans: 198,12 metrow polaczone drogo: Plac Jana Matejki
+	Nodee Id: 226834588 lat: 50.0672499 lon: 19.9428678 dystans: 20,25 metrow polaczone drogo: Plac Jana Matejki
+	Nodee Id: 1936191716 lat: 50.0675382 lon: 19.9427815 dystans: 15,58 metrow polaczone drogo: Plac Jana Matejki
+
+Node Id: 414635892 lat: 50.0657808 lon: 19.9415739
+	Nodee Id: 1936191714 lat: 50.0674043 lon: 19.9427174 dystans: 198,12 metrow polaczone drogo: Plac Jana Matejki
+	Nodee Id: 596531118 lat: 50.0658223 lon: 19.9414414 dystans: 10,52 metrow polaczone drogo: Basztowa
+	Nodee Id: 262193751 lat: 50.0656981 lon: 19.9418248 dystans: 20,13 metrow polaczone drogo: Basztowa
+
+Node Id: 262199974 lat: 50.070234 lon: 19.9458434
+	Nodee Id: 261704063 lat: 50.0704147 lon: 19.9451183 dystans: 55,51 metrow polaczone drogo: Œwiêtego Rafa³a Kalinowskiego
+	Nodee Id: 269330740 lat: 50.0704684 lon: 19.9459125 dystans: 26,53 metrow polaczone drogo:  
+	Nodee Id: 262199977 lat: 50.0695963 lon: 19.945893 dystans: 71,00 metrow polaczone drogo: Œwiêtego Rafa³a Kalinowskiego
+
+Node Id: 262199985 lat: 50.0697844 lon: 19.9382561
+	Nodee Id: 262199970 lat: 50.0714221 lon: 19.9391736 dystans: 193,52 metrow polaczone drogo: Pêdzichów
+	Nodee Id: 262199986 lat: 50.0695061 lon: 19.9397681 dystans: 112,26 metrow polaczone drogo: Zygmunta Wróblewskiego
+	Nodee Id: 4185025341 lat: 50.0693129 lon: 19.9378498 dystans: 59,91 metrow polaczone drogo: Pêdzichów
+
+Node Id: 262201253 lat: 50.0674188 lon: 19.9284276
+	Nodee Id: 262201254 lat: 50.0665519 lon: 19.9267274 dystans: 154,98 metrow polaczone drogo: Ambro¿ego Grabowskiego
+	Nodee Id: 273470204 lat: 50.0679716 lon: 19.9312774 dystans: 212,49 metrow polaczone drogo: Kremerowska
+
+Node Id: 262201254 lat: 50.0665519 lon: 19.9267274
+	Nodee Id: 262201253 lat: 50.0674188 lon: 19.9284276 dystans: 154,98 metrow polaczone drogo: Ambro¿ego Grabowskiego
+	Nodee Id: 207436117 lat: 50.0669876 lon: 19.9253228 dystans: 111,35 metrow polaczone drogo: Jana Kochanowskiego
+	Nodee Id: 262201255 lat: 50.0660515 lon: 19.9279741 dystans: 104,95 metrow polaczone drogo: Jana Kochanowskiego
+
+Node Id: 2420717850 lat: 50.0646181 lon: 19.9449621
+	Nodee Id: 2420153436 lat: 50.0646229 lon: 19.9449476 dystans: 1,16 metrow polaczone drogo: Lubicz
+	Nodee Id: 3400777677 lat: 50.0646204 lon: 19.9460623 dystans: 78,53 metrow polaczone drogo: Lubicz
+	Nodee Id: 3027072357 lat: 50.0647012 lon: 19.9460984 dystans: 81,63 metrow polaczone drogo: Lubicz
+
+Node Id: 264342689 lat: 50.0640693 lon: 19.9226264
+	Nodee Id: 264342692 lat: 50.0639717 lon: 19.9225964 dystans: 11,06 metrow polaczone drogo:  
+	Nodee Id: 262210523 lat: 50.0658777 lon: 19.9132829 dystans: 696,58 metrow polaczone drogo: W³adys³awa Reymonta
+	Nodee Id: 2482236903 lat: 50.0649744 lon: 19.9229568 dystans: 103,37 metrow polaczone drogo:  
+	Nodee Id: 1448935649 lat: 50.0639433 lon: 19.9234854 dystans: 62,90 metrow polaczone drogo: W³adys³awa Reymonta
+
+Node Id: 264342692 lat: 50.0639717 lon: 19.9225964
+	Nodee Id: 264342689 lat: 50.0640693 lon: 19.9226264 dystans: 11,06 metrow polaczone drogo:  
+	Nodee Id: 2485578312 lat: 50.0639663 lon: 19.9226352 dystans: 2,83 metrow polaczone drogo: W³adys³awa Reymonta
+
+Node Id: 1676326493 lat: 50.0660183 lon: 19.9236975
+	Nodee Id: 265517200 lat: 50.065536 lon: 19.924225 dystans: 65,53 metrow polaczone drogo: Aleja Adama Mickiewicza
+	Nodee Id: 1676326498 lat: 50.0663448 lon: 19.922747 dystans: 76,95 metrow polaczone drogo: Czarnowiejska
+	Nodee Id: 2106196385 lat: 50.065836 lon: 19.9243328 dystans: 49,67 metrow polaczone drogo: Czarnowiejska
+
+Node Id: 265517200 lat: 50.065536 lon: 19.924225
+	Nodee Id: 1676326493 lat: 50.0660183 lon: 19.9236975 dystans: 65,53 metrow polaczone drogo: Aleja Adama Mickiewicza
+	Nodee Id: 1167933712 lat: 50.0644128 lon: 19.9238154 dystans: 128,27 metrow polaczone drogo: Aleja Adama Mickiewicza
+	Nodee Id: 2106196385 lat: 50.065836 lon: 19.9243328 dystans: 34,23 metrow polaczone drogo: Aleja Adama Mickiewicza
+
+Node Id: 257661100 lat: 50.0634819 lon: 19.9303511
+	Nodee Id: 257661109 lat: 50.0625945 lon: 19.930309 dystans: 98,72 metrow polaczone drogo: Loretañska
+	Nodee Id: 2419894908 lat: 50.0635221 lon: 19.9325643 dystans: 158,04 metrow polaczone drogo: Krupnicza
+	Nodee Id: 273532899 lat: 50.0634901 lon: 19.9291953 dystans: 82,51 metrow polaczone drogo: Krupnicza
+
+Node Id: 2616178230 lat: 50.0598507 lon: 19.9278751
+	Nodee Id: 2616178233 lat: 50.0603964 lon: 19.9273858 dystans: 70,01 metrow polaczone drogo: Garncarska
+	Nodee Id: 2419720328 lat: 50.0564333 lon: 19.9292265 dystans: 392,05 metrow polaczone drogo: Retoryka
+
+Node Id: 2616178233 lat: 50.0603964 lon: 19.9273858
+	Nodee Id: 2616178230 lat: 50.0598507 lon: 19.9278751 dystans: 70,01 metrow polaczone drogo: Garncarska
+	Nodee Id: 268800776 lat: 50.0603066 lon: 19.9270314 dystans: 27,20 metrow polaczone drogo: Wenecja
+	Nodee Id: 266695290 lat: 50.06328 lon: 19.9276365 dystans: 321,14 metrow polaczone drogo: Garncarska
+
+Node Id: 2646085163 lat: 50.0564129 lon: 19.929273
+	Nodee Id: 2419720328 lat: 50.0564333 lon: 19.9292265 dystans: 4,02 metrow polaczone drogo: Retoryka
+	Nodee Id: 2143514396 lat: 50.0560602 lon: 19.9289356 dystans: 46,02 metrow polaczone drogo: Zwierzyniecka
+	Nodee Id: 2143514404 lat: 50.0564661 lon: 19.9292942 dystans: 6,11 metrow polaczone drogo: Zwierzyniecka
+
+Node Id: 2419720328 lat: 50.0564333 lon: 19.9292265
+	Nodee Id: 2646085163 lat: 50.0564129 lon: 19.929273 dystans: 4,02 metrow polaczone drogo: Retoryka
+	Nodee Id: 2143514404 lat: 50.0564661 lon: 19.9292942 dystans: 6,05 metrow polaczone drogo: Zwierzyniecka
+	Nodee Id: 2616178230 lat: 50.0598507 lon: 19.9278751 dystans: 392,05 metrow polaczone drogo: Retoryka
+	Nodee Id: 2419720327 lat: 50.0561118 lon: 19.928821 dystans: 46,00 metrow polaczone drogo: Zwierzyniecka
+
+Node Id: 273532899 lat: 50.0634901 lon: 19.9291953
+	Nodee Id: 257659338 lat: 50.0634074 lon: 19.928049 dystans: 82,34 metrow polaczone drogo: Krupnicza
+	Nodee Id: 273532900 lat: 50.0646766 lon: 19.928989 dystans: 132,75 metrow polaczone drogo: Józefa Szujskiego
+	Nodee Id: 257661100 lat: 50.0634819 lon: 19.9303511 dystans: 82,51 metrow polaczone drogo: Krupnicza
+
+Node Id: 268800776 lat: 50.0603066 lon: 19.9270314
+	Nodee Id: 268800772 lat: 50.0625617 lon: 19.9252767 dystans: 280,30 metrow polaczone drogo: Wenecja
+	Nodee Id: 2616178233 lat: 50.0603964 lon: 19.9273858 dystans: 27,20 metrow polaczone drogo: Wenecja
+	Nodee Id: 268800779 lat: 50.0597957 lon: 19.9274761 dystans: 65,08 metrow polaczone drogo: Wenecja
+
+Node Id: 268800779 lat: 50.0597957 lon: 19.9274761
+	Nodee Id: 268800781 lat: 50.0586004 lon: 19.9282744 dystans: 144,61 metrow polaczone drogo: Retoryka
+	Nodee Id: 268800776 lat: 50.0603066 lon: 19.9270314 dystans: 65,08 metrow polaczone drogo: Wenecja
+
+Node Id: 2689497891 lat: 50.0648218 lon: 19.944982
+	Nodee Id: 2420153436 lat: 50.0646229 lon: 19.9449476 dystans: 22,25 metrow polaczone drogo: Pawia
+	Nodee Id: 226010207 lat: 50.067281 lon: 19.9451247 dystans: 273,64 metrow polaczone drogo: Pawia
+
+Node Id: 207428883 lat: 50.0688615 lon: 19.9433694
+	Nodee Id: 226010241 lat: 50.0685272 lon: 19.9451882 dystans: 135,03 metrow polaczone drogo: Ogrodowa
+	Nodee Id: 207428879 lat: 50.0703804 lon: 19.9437602 dystans: 171,18 metrow polaczone drogo: Warszawska
+	Nodee Id: 1936191716 lat: 50.0675382 lon: 19.9427815 dystans: 153,01 metrow polaczone drogo: Warszawska
+
+Node Id: 226010241 lat: 50.0685272 lon: 19.9451882
+	Nodee Id: 207428883 lat: 50.0688615 lon: 19.9433694 dystans: 135,03 metrow polaczone drogo: Ogrodowa
+	Nodee Id: 1295312873 lat: 50.0693263 lon: 19.9450906 dystans: 89,13 metrow polaczone drogo: Pawia
+	Nodee Id: 226010207 lat: 50.067281 lon: 19.9451247 dystans: 138,65 metrow polaczone drogo: Pawia
+
+Node Id: 269347482 lat: 50.0566376 lon: 19.9286786
+	Nodee Id: 2419720333 lat: 50.0565984 lon: 19.9288981 dystans: 16,27 metrow polaczone drogo:  
+	Nodee Id: 273761472 lat: 50.0565343 lon: 19.9279092 dystans: 56,12 metrow polaczone drogo: Kazimierza Morawskiego
+
+Node Id: 244398996 lat: 50.0522551 lon: 19.9281232
+	Nodee Id: 245485641 lat: 50.0519812 lon: 19.9274555 dystans: 56,57 metrow polaczone drogo: Antoniego Józefa Madaliñskiego
+	Nodee Id: 2068887050 lat: 50.0530235 lon: 19.9287872 dystans: 97,71 metrow polaczone drogo: Genera³a Antoniego Józefa Madaliñskiego
+
+Node Id: 261708619 lat: 50.0562583 lon: 19.9455737
+	Nodee Id: 1894287219 lat: 50.0559216 lon: 19.9459978 dystans: 48,15 metrow polaczone drogo: Starowiœlna
+	Nodee Id: 2262608105 lat: 50.0574705 lon: 19.9465404 dystans: 151,43 metrow polaczone drogo: Józefa Dietla
+	Nodee Id: 288492176 lat: 50.0564182 lon: 19.9453905 dystans: 22,07 metrow polaczone drogo: Starowiœlna
+	Nodee Id: 2262608104 lat: 50.0557247 lon: 19.9451828 dystans: 65,57 metrow polaczone drogo: Józefa Dietla
+
+Node Id: 1894287219 lat: 50.0559216 lon: 19.9459978
+	Nodee Id: 261708619 lat: 50.0562583 lon: 19.9455737 dystans: 48,15 metrow polaczone drogo: Starowiœlna
+	Nodee Id: 1894287220 lat: 50.0564022 lon: 19.9456814 dystans: 58,02 metrow polaczone drogo: Starowiœlna
+	Nodee Id: 264464994 lat: 50.0536589 lon: 19.9484026 dystans: 304,60 metrow polaczone drogo: Starowiœlna
+
+Node Id: 207469736 lat: 50.0587047 lon: 19.9482049
+	Nodee Id: 2262140653 lat: 50.0585521 lon: 19.9474855 dystans: 54,09 metrow polaczone drogo: Józefa Dietla
+	Nodee Id: 207469733 lat: 50.0587912 lon: 19.9491888 dystans: 70,89 metrow polaczone drogo: Grzegórzecka
+
+Node Id: 2262140653 lat: 50.0585521 lon: 19.9474855
+	Nodee Id: 207469736 lat: 50.0587047 lon: 19.9482049 dystans: 54,09 metrow polaczone drogo: Józefa Dietla
+	Nodee Id: 207469742 lat: 50.0583038 lon: 19.9467249 dystans: 60,91 metrow polaczone drogo: Józefa Dietla
+
+Node Id: 272783544 lat: 50.0675752 lon: 19.9386721
+	Nodee Id: 272783547 lat: 50.067277 lon: 19.9405545 dystans: 138,39 metrow polaczone drogo: Krzywa
+	Nodee Id: 261745757 lat: 50.0688455 lon: 19.9382691 dystans: 144,15 metrow polaczone drogo: D³uga
+	Nodee Id: 261747338 lat: 50.0662729 lon: 19.9391219 dystans: 148,33 metrow polaczone drogo: D³uga
+
+Node Id: 269330753 lat: 50.0696043 lon: 19.9460513
+	Nodee Id: 269330750 lat: 50.0702795 lon: 19.9460213 dystans: 75,11 metrow polaczone drogo: Œwiêtego Rafa³a Kalinowskiego
+	Nodee Id: 272790586 lat: 50.069076 lon: 19.9491598 dystans: 229,50 metrow polaczone drogo: Œwiêtego Rafa³a Kalinowskiego
+
+Node Id: 269330750 lat: 50.0702795 lon: 19.9460213
+	Nodee Id: 269330753 lat: 50.0696043 lon: 19.9460513 dystans: 75,11 metrow polaczone drogo: Œwiêtego Rafa³a Kalinowskiego
+	Nodee Id: 269330734 lat: 50.0704925 lon: 19.9466856 dystans: 53,00 metrow polaczone drogo:  
+	Nodee Id: 3398135153 lat: 50.0703433 lon: 19.9460002 dystans: 7,25 metrow polaczone drogo: Œwiêtego Rafa³a Kalinowskiego
+
+Node Id: 262199977 lat: 50.0695963 lon: 19.945893
+	Nodee Id: 272790602 lat: 50.068975 lon: 19.9491604 dystans: 243,22 metrow polaczone drogo: Œwiêtego Rafa³a Kalinowskiego
+	Nodee Id: 262199974 lat: 50.070234 lon: 19.9458434 dystans: 71,00 metrow polaczone drogo: Œwiêtego Rafa³a Kalinowskiego
+
+Node Id: 272798896 lat: 50.063157 lon: 19.9432169
+	Nodee Id: 251689493 lat: 50.0628116 lon: 19.9429873 dystans: 41,76 metrow polaczone drogo: Œwiêtego Krzy¿a
+	Nodee Id: 272798899 lat: 50.0633851 lon: 19.9428358 dystans: 37,19 metrow polaczone drogo: Œwiêtego Krzy¿a
+
+Node Id: 272798884 lat: 50.0647684 lon: 19.9366835
+	Nodee Id: 272798880 lat: 50.0645642 lon: 19.9372337 dystans: 45,36 metrow polaczone drogo: Œwiêtego Marka
+	Nodee Id: 251689850 lat: 50.0648458 lon: 19.936904 dystans: 17,94 metrow polaczone drogo: Reformacka
+	Nodee Id: 273473987 lat: 50.0642722 lon: 19.9352167 dystans: 118,35 metrow polaczone drogo: Reformacka
+
+Node Id: 272798880 lat: 50.0645642 lon: 19.9372337
+	Nodee Id: 272798884 lat: 50.0647684 lon: 19.9366835 dystans: 45,36 metrow polaczone drogo: Œwiêtego Marka
+	Nodee Id: 251689850 lat: 50.0648458 lon: 19.936904 dystans: 39,17 metrow polaczone drogo: Œwiêtego Marka
+	Nodee Id: 251689744 lat: 50.063982 lon: 19.9391896 dystans: 153,89 metrow polaczone drogo: Œwiêtego Marka
+
+Node Id: 272798899 lat: 50.0633851 lon: 19.9428358
+	Nodee Id: 272798896 lat: 50.063157 lon: 19.9432169 dystans: 37,19 metrow polaczone drogo: Œwiêtego Krzy¿a
+	Nodee Id: 30375877 lat: 50.063715 lon: 19.9419082 dystans: 75,69 metrow polaczone drogo: Plac Œwiêtego Ducha
+
+Node Id: 272801051 lat: 50.0647467 lon: 19.9452532
+	Nodee Id: 272801047 lat: 50.0652696 lon: 19.9454062 dystans: 59,16 metrow polaczone drogo:  
+	Nodee Id: 272801035 lat: 50.064525 lon: 19.9446776 dystans: 47,91 metrow polaczone drogo:  
+
+Node Id: 272801035 lat: 50.064525 lon: 19.9446776
+	Nodee Id: 272801051 lat: 50.0647467 lon: 19.9452532 dystans: 47,91 metrow polaczone drogo:  
+	Nodee Id: 251690477 lat: 50.0645067 lon: 19.9446359 dystans: 3,61 metrow polaczone drogo:  
+
+Node Id: 251690477 lat: 50.0645067 lon: 19.9446359
+	Nodee Id: 272801035 lat: 50.064525 lon: 19.9446776 dystans: 3,61 metrow polaczone drogo:  
+	Nodee Id: 30375883 lat: 50.0644941 lon: 19.9424687 dystans: 154,70 metrow polaczone drogo:  
+
+Node Id: 264342640 lat: 50.0651565 lon: 19.923022
+	Nodee Id: 2482236906 lat: 50.0650167 lon: 19.9229721 dystans: 15,95 metrow polaczone drogo:  
+	Nodee Id: 2482236908 lat: 50.0652023 lon: 19.922724 dystans: 21,87 metrow polaczone drogo:  
+
+Node Id: 2482236906 lat: 50.0650167 lon: 19.9229721
+	Nodee Id: 264342640 lat: 50.0651565 lon: 19.923022 dystans: 15,95 metrow polaczone drogo:  
+	Nodee Id: 2482236903 lat: 50.0649744 lon: 19.9229568 dystans: 4,83 metrow polaczone drogo:  
+
+Node Id: 1676326498 lat: 50.0663448 lon: 19.922747
+	Nodee Id: 226009431 lat: 50.0682927 lon: 19.9232872 dystans: 220,00 metrow polaczone drogo: Karola Szymanowskiego
+	Nodee Id: 236313351 lat: 50.0659452 lon: 19.9243694 dystans: 124,03 metrow polaczone drogo: Czarnowiejska
+	Nodee Id: 236160072 lat: 50.0675762 lon: 19.918162 dystans: 354,75 metrow polaczone drogo: Czarnowiejska
+	Nodee Id: 1676326493 lat: 50.0660183 lon: 19.9236975 dystans: 76,95 metrow polaczone drogo: Czarnowiejska
+
+Node Id: 226009431 lat: 50.0682927 lon: 19.9232872
+	Nodee Id: 1676326498 lat: 50.0663448 lon: 19.922747 dystans: 220,00 metrow polaczone drogo: Karola Szymanowskiego
+	Nodee Id: 226009408 lat: 50.0671761 lon: 19.9212987 dystans: 188,57 metrow polaczone drogo: Mieczys³awa Kar³owicza
+	Nodee Id: 2543108159 lat: 50.069414 lon: 19.923569 dystans: 126,29 metrow polaczone drogo: Karola Szymanowskiego
+
+Node Id: 273461463 lat: 50.069406 lon: 19.9241969
+	Nodee Id: 2419959800 lat: 50.0702453 lon: 19.9246954 dystans: 99,88 metrow polaczone drogo: Plac Inwalidów
+	Nodee Id: 3455966393 lat: 50.0693938 lon: 19.9241689 dystans: 2,42 metrow polaczone drogo: Juliusza Lea
+
+Node Id: 273461470 lat: 50.0702557 lon: 19.9274087
+	Nodee Id: 207435825 lat: 50.0704439 lon: 19.9272372 dystans: 24,24 metrow polaczone drogo:  
+	Nodee Id: 207435523 lat: 50.0700434 lon: 19.9273068 dystans: 24,70 metrow polaczone drogo:  
+
+Node Id: 262201255 lat: 50.0660515 lon: 19.9279741
+	Nodee Id: 262201257 lat: 50.0654597 lon: 19.9283988 dystans: 72,45 metrow polaczone drogo: Jana Kochanowskiego
+	Nodee Id: 273469160 lat: 50.066807 lon: 19.9291339 dystans: 117,94 metrow polaczone drogo: Piotra Micha³owskiego
+	Nodee Id: 262201254 lat: 50.0665519 lon: 19.9267274 dystans: 104,95 metrow polaczone drogo: Jana Kochanowskiego
+	Nodee Id: 262201256 lat: 50.0652943 lon: 19.9271591 dystans: 102,34 metrow polaczone drogo: Piotra Micha³owskiego
+
+Node Id: 265517208 lat: 50.0700123 lon: 19.9272855
+	Nodee Id: 240971029 lat: 50.0690011 lon: 19.9266041 dystans: 122,51 metrow polaczone drogo: Aleja Juliusza S³owackiego
+	Nodee Id: 207435523 lat: 50.0700434 lon: 19.9273068 dystans: 3,78 metrow polaczone drogo: Aleja Juliusza S³owackiego
+
+Node Id: 207435827 lat: 50.0692864 lon: 19.9263503
+	Nodee Id: 2468665585 lat: 50.0692018 lon: 19.9262873 dystans: 10,43 metrow polaczone drogo: Aleja Adama Mickiewicza
+	Nodee Id: 240971029 lat: 50.0690011 lon: 19.9266041 dystans: 36,53 metrow polaczone drogo: Królewska
+	Nodee Id: 494604313 lat: 50.070089 lon: 19.9250791 dystans: 127,26 metrow polaczone drogo: Królewska
+	Nodee Id: 261677476 lat: 50.0706855 lon: 19.9276147 dystans: 179,85 metrow polaczone drogo: Aleja Juliusza S³owackiego
+
+Node Id: 277929321 lat: 50.0688174 lon: 19.9260064
+	Nodee Id: 2468665585 lat: 50.0692018 lon: 19.9262873 dystans: 47,21 metrow polaczone drogo: Aleja Adama Mickiewicza
+	Nodee Id: 31349965 lat: 50.0682665 lon: 19.9256069 dystans: 67,57 metrow polaczone drogo: Aleja Adama Mickiewicza
+
+Node Id: 226214980 lat: 50.0593596 lon: 19.9252909
+	Nodee Id: 2816534386 lat: 50.0606771 lon: 19.9245273 dystans: 156,31 metrow polaczone drogo: Aleja Adama Mickiewicza
+	Nodee Id: 2419821216 lat: 50.0596974 lon: 19.9267743 dystans: 112,36 metrow polaczone drogo: Marsza³ka Józefa Pi³sudskiego
+	Nodee Id: 226214987 lat: 50.0592915 lon: 19.9248525 dystans: 32,20 metrow polaczone drogo: Marsza³ka Józefa Pi³sudskiego
+	Nodee Id: 279035505 lat: 50.0582287 lon: 19.9260322 dystans: 136,43 metrow polaczone drogo: Aleja Zygmunta Krasiñskiego
+
+Node Id: 2816534386 lat: 50.0606771 lon: 19.9245273
+	Nodee Id: 226214980 lat: 50.0593596 lon: 19.9252909 dystans: 156,31 metrow polaczone drogo: Aleja Adama Mickiewicza
+	Nodee Id: 273532987 lat: 50.0609267 lon: 19.924392 dystans: 29,39 metrow polaczone drogo: Aleja Adama Mickiewicza
+
+Node Id: 273470204 lat: 50.0679716 lon: 19.9312774
+	Nodee Id: 254349500 lat: 50.0690753 lon: 19.9307493 dystans: 128,38 metrow polaczone drogo: Jana Sobieskiego
+	Nodee Id: 262201253 lat: 50.0674188 lon: 19.9284276 dystans: 212,49 metrow polaczone drogo: Kremerowska
+	Nodee Id: 254349501 lat: 50.0672342 lon: 19.9316202 dystans: 85,57 metrow polaczone drogo: Jana Sobieskiego
+
+Node Id: 251689850 lat: 50.0648458 lon: 19.936904
+	Nodee Id: 272798884 lat: 50.0647684 lon: 19.9366835 dystans: 17,94 metrow polaczone drogo: Reformacka
+	Nodee Id: 251689852 lat: 50.0653701 lon: 19.9367599 dystans: 59,20 metrow polaczone drogo: Œwiêtego Marka
+	Nodee Id: 272798880 lat: 50.0645642 lon: 19.9372337 dystans: 39,17 metrow polaczone drogo: Œwiêtego Marka
+
+Node Id: 251691997 lat: 50.0604576 lon: 19.9333155
+	Nodee Id: 251690121 lat: 50.0600354 lon: 19.9343637 dystans: 88,33 metrow polaczone drogo: Karola Olszewskiego
+	Nodee Id: 251689105 lat: 50.061016 lon: 19.9336966 dystans: 67,79 metrow polaczone drogo: Jagielloñska
+
+Node Id: 251690121 lat: 50.0600354 lon: 19.9343637
+	Nodee Id: 251691997 lat: 50.0604576 lon: 19.9333155 dystans: 88,33 metrow polaczone drogo: Karola Olszewskiego
+	Nodee Id: 251689118 lat: 50.0606209 lon: 19.9348253 dystans: 72,97 metrow polaczone drogo: Wiœlna
+
+Node Id: 3080531511 lat: 50.0633444 lon: 19.9355881
+	Nodee Id: 251691838 lat: 50.0628045 lon: 19.9368672 dystans: 109,27 metrow polaczone drogo: Szczepañska
+	Nodee Id: 3080535351 lat: 50.0634171 lon: 19.9355729 dystans: 8,16 metrow polaczone drogo:  
+
+Node Id: 251691838 lat: 50.0628045 lon: 19.9368672
+	Nodee Id: 3080531511 lat: 50.0633444 lon: 19.9355881 dystans: 109,27 metrow polaczone drogo: Szczepañska
+	Nodee Id: 1913862678 lat: 50.0626666 lon: 19.9369415 dystans: 16,23 metrow polaczone drogo: Rynek G³ówny
+	Nodee Id: 2500996741 lat: 50.062856 lon: 19.9369077 dystans: 6,41 metrow polaczone drogo: S³awkowska
+
+Node Id: 3080535804 lat: 50.0639957 lon: 19.9359648
+	Nodee Id: 3080535397 lat: 50.0639032 lon: 19.9360427 dystans: 11,69 metrow polaczone drogo: Plac Szczepañski
+	Nodee Id: 3080535351 lat: 50.0634171 lon: 19.9355729 dystans: 70,16 metrow polaczone drogo: Plac Szczepañski
+
+Node Id: 2620270143 lat: 50.064805 lon: 19.9403092
+	Nodee Id: 251689743 lat: 50.0647665 lon: 19.9397421 dystans: 40,70 metrow polaczone drogo: Pijarska
+	Nodee Id: 274260908 lat: 50.0648095 lon: 19.940369 dystans: 4,30 metrow polaczone drogo: Pijarska
+
+Node Id: 30375924 lat: 50.0581435 lon: 19.9380029
+	Nodee Id: 273483027 lat: 50.0577483 lon: 19.9337005 dystans: 310,27 metrow polaczone drogo: Poselska
+	Nodee Id: 290148694 lat: 50.0591231 lon: 19.9378554 dystans: 109,43 metrow polaczone drogo: Grodzka
+	Nodee Id: 256620820 lat: 50.0590535 lon: 19.9397261 dystans: 159,28 metrow polaczone drogo: Poselska
+	Nodee Id: 30375927 lat: 50.0576649 lon: 19.9380774 dystans: 53,48 metrow polaczone drogo: Grodzka
+
+Node Id: 1517013550 lat: 50.0556227 lon: 19.9369273
+	Nodee Id: 273706828 lat: 50.05681 lon: 19.9375335 dystans: 138,93 metrow polaczone drogo: Kanonicza
+	Nodee Id: 273485828 lat: 50.0554177 lon: 19.9368011 dystans: 24,51 metrow polaczone drogo: Kanonicza
+
+Node Id: 30375949 lat: 50.0545799 lon: 19.9384098
+	Nodee Id: 30375950 lat: 50.0540691 lon: 19.9382008 dystans: 58,73 metrow polaczone drogo: Droga do Zamku
+	Nodee Id: 2067207833 lat: 50.0547591 lon: 19.9384783 dystans: 20,52 metrow polaczone drogo: Grodzka
+	Nodee Id: 3721726318 lat: 50.0544959 lon: 19.9385385 dystans: 13,10 metrow polaczone drogo: Œwiêtego Idziego
+	Nodee Id: 236138215 lat: 50.0548159 lon: 19.9380119 dystans: 38,67 metrow polaczone drogo: Œwiêtego Idziego
+
+Node Id: 30375950 lat: 50.0540691 lon: 19.9382008
+	Nodee Id: 30375949 lat: 50.0545799 lon: 19.9384098 dystans: 58,73 metrow polaczone drogo: Droga do Zamku
+	Nodee Id: 1159658839 lat: 50.0541845 lon: 19.9386217 dystans: 32,67 metrow polaczone drogo: Plac Bernardyñski
+	Nodee Id: 752177431 lat: 50.0529108 lon: 19.9354053 dystans: 237,54 metrow polaczone drogo: Droga do Zamku
+
+Node Id: 1913862668 lat: 50.0612934 lon: 19.9383127
+	Nodee Id: 2110897851 lat: 50.0612331 lon: 19.9385017 dystans: 15,07 metrow polaczone drogo: Sienna
+	Nodee Id: 1913875698 lat: 50.0616153 lon: 19.9385514 dystans: 39,64 metrow polaczone drogo:  
+
+Node Id: 2110897851 lat: 50.0612331 lon: 19.9385017
+	Nodee Id: 1913862668 lat: 50.0612934 lon: 19.9383127 dystans: 15,07 metrow polaczone drogo: Sienna
+	Nodee Id: 251690393 lat: 50.0608517 lon: 19.9397419 dystans: 98,16 metrow polaczone drogo: Sienna
+
+Node Id: 273532987 lat: 50.0609267 lon: 19.924392
+	Nodee Id: 273532982 lat: 50.0608459 lon: 19.9239765 dystans: 30,99 metrow polaczone drogo: Aleja Adama Mickiewicza
+	Nodee Id: 236151807 lat: 50.0622572 lon: 19.9237442 dystans: 155,00 metrow polaczone drogo: Aleja Adama Mickiewicza
+	Nodee Id: 2816534386 lat: 50.0606771 lon: 19.9245273 dystans: 29,39 metrow polaczone drogo: Aleja Adama Mickiewicza
+
+Node Id: 273532982 lat: 50.0608459 lon: 19.9239765
+	Nodee Id: 273532987 lat: 50.0609267 lon: 19.924392 dystans: 30,99 metrow polaczone drogo: Aleja Adama Mickiewicza
+	Nodee Id: 226214987 lat: 50.0592915 lon: 19.9248525 dystans: 183,81 metrow polaczone drogo: Aleja Adama Mickiewicza
+	Nodee Id: 266695294 lat: 50.0621873 lon: 19.9232885 dystans: 157,03 metrow polaczone drogo: Aleja Adama Mickiewicza
+
+Node Id: 273535377 lat: 50.0610411 lon: 19.9299148
+	Nodee Id: 2616178235 lat: 50.0609923 lon: 19.927502 dystans: 172,32 metrow polaczone drogo: Plac Genera³a W³adys³awa Sikorskiego
+	Nodee Id: 273535378 lat: 50.0602022 lon: 19.9302239 dystans: 95,86 metrow polaczone drogo: Czapskich
+	Nodee Id: 2419894837 lat: 50.0612073 lon: 19.9320897 dystans: 156,35 metrow polaczone drogo: Jab³onowskich
+
+Node Id: 272798927 lat: 50.0608454 lon: 19.9398548
+	Nodee Id: 2107295305 lat: 50.0616252 lon: 19.9404399 dystans: 96,24 metrow polaczone drogo: Ma³y Rynek
+	Nodee Id: 251690393 lat: 50.0608517 lon: 19.9397419 dystans: 8,09 metrow polaczone drogo: Sienna
+	Nodee Id: 272798925 lat: 50.060723 lon: 19.9402552 dystans: 31,66 metrow polaczone drogo: Sienna
+
+Node Id: 251678246 lat: 50.0615537 lon: 19.940856
+	Nodee Id: 251689494 lat: 50.0612771 lon: 19.9418132 dystans: 74,93 metrow polaczone drogo: Miko³ajska
+	Nodee Id: 2519217709 lat: 50.0616829 lon: 19.940424 dystans: 34,02 metrow polaczone drogo: Miko³ajska
+
+Node Id: 251689494 lat: 50.0612771 lon: 19.9418132
+	Nodee Id: 251678246 lat: 50.0615537 lon: 19.940856 dystans: 74,93 metrow polaczone drogo: Miko³ajska
+	Nodee Id: 226835922 lat: 50.061175 lon: 19.9441216 dystans: 165,17 metrow polaczone drogo: Miko³ajska
+
+Node Id: 273706818 lat: 50.0567019 lon: 19.9375216
+	Nodee Id: 273706828 lat: 50.05681 lon: 19.9375335 dystans: 12,05 metrow polaczone drogo: Plac Œwiêtej Marii Magdaleny
+	Nodee Id: 2466762370 lat: 50.0566627 lon: 19.93817 dystans: 46,49 metrow polaczone drogo: Plac Œwiêtej Marii Magdaleny
+
+Node Id: 2920531335 lat: 50.0586593 lon: 19.928573
+	Nodee Id: 2419367461 lat: 50.0594163 lon: 19.9328795 dystans: 318,74 metrow polaczone drogo: Smoleñsk
+	Nodee Id: 268800781 lat: 50.0586004 lon: 19.9282744 dystans: 22,30 metrow polaczone drogo: Smoleñsk
+
+Node Id: 4276933050 lat: 50.057828 lon: 19.9295786
+	Nodee Id: 2920531336 lat: 50.0588249 lon: 19.9293697 dystans: 111,85 metrow polaczone drogo: Felicjanek
+	Nodee Id: 30372085 lat: 50.0576389 lon: 19.9307172 dystans: 83,96 metrow polaczone drogo: Ma³a
+	Nodee Id: 273761448 lat: 50.0566752 lon: 19.9295377 dystans: 128,22 metrow polaczone drogo: Felicjanek
+
+Node Id: 273761472 lat: 50.0565343 lon: 19.9279092
+	Nodee Id: 269347482 lat: 50.0566376 lon: 19.9286786 dystans: 56,12 metrow polaczone drogo: Kazimierza Morawskiego
+	Nodee Id: 273761476 lat: 50.0563158 lon: 19.9274787 dystans: 39,18 metrow polaczone drogo: Kazimierza Morawskiego
+	Nodee Id: 273761491 lat: 50.0560936 lon: 19.9285506 dystans: 67,07 metrow polaczone drogo: Plac Juliusza Kossaka
+
+Node Id: 273761484 lat: 50.0558207 lon: 19.9256879
+	Nodee Id: 4157484650 lat: 50.0559843 lon: 19.9264605 dystans: 58,08 metrow polaczone drogo: Kazimierza Morawskiego
+	Nodee Id: 290370921 lat: 50.0570128 lon: 19.925082 dystans: 139,43 metrow polaczone drogo: W³adys³awa Syrokomli
+	Nodee Id: 4157482784 lat: 50.0550293 lon: 19.9264217 dystans: 102,41 metrow polaczone drogo: W³adys³awa Syrokomli
+	Nodee Id: 251693214 lat: 50.0553988 lon: 19.9247456 dystans: 82,01 metrow polaczone drogo: Kazimierza Morawskiego
+
+Node Id: 2403443571 lat: 50.0567058 lon: 19.9324751
+	Nodee Id: 3270638023 lat: 50.0573219 lon: 19.931304 dystans: 108,09 metrow polaczone drogo: Tar³owska
+	Nodee Id: 30376958 lat: 50.0569854 lon: 19.9340511 dystans: 116,73 metrow polaczone drogo: Plac Na Groblach
+	Nodee Id: 236139461 lat: 50.0554144 lon: 19.9315797 dystans: 157,18 metrow polaczone drogo: Plac Na Groblach
+
+Node Id: 2403443561 lat: 50.0551868 lon: 19.9326157
+	Nodee Id: 2403443574 lat: 50.0568727 lon: 19.9333315 dystans: 194,30 metrow polaczone drogo: Plac Na Groblach
+	Nodee Id: 1655086741 lat: 50.0553141 lon: 19.9320775 dystans: 40,95 metrow polaczone drogo: Powiœle
+	Nodee Id: 2067207837 lat: 50.0550083 lon: 19.9334588 dystans: 63,38 metrow polaczone drogo: Powiœle
+
+Node Id: 236139461 lat: 50.0554144 lon: 19.9315797
+	Nodee Id: 2403443571 lat: 50.0567058 lon: 19.9324751 dystans: 157,18 metrow polaczone drogo: Plac Na Groblach
+	Nodee Id: 1655086741 lat: 50.0553141 lon: 19.9320775 dystans: 37,25 metrow polaczone drogo: Powiœle
+	Nodee Id: 2263092335 lat: 50.0558461 lon: 19.929751 dystans: 139,10 metrow polaczone drogo: Powiœle
+
+Node Id: 273798747 lat: 50.0568839 lon: 19.9267769
+	Nodee Id: 273798826 lat: 50.0567755 lon: 19.9264505 dystans: 26,23 metrow polaczone drogo: Aleja Zygmunta Krasiñskiego
+	Nodee Id: 2403408326 lat: 50.0563759 lon: 19.9270386 dystans: 59,50 metrow polaczone drogo: Aleja Zygmunta Krasiñskiego
+	Nodee Id: 279035505 lat: 50.0582287 lon: 19.9260322 dystans: 158,70 metrow polaczone drogo: Aleja Zygmunta Krasiñskiego
+
+Node Id: 273473988 lat: 50.0642307 lon: 19.9353435
+	Nodee Id: 2104495834 lat: 50.0636309 lon: 19.9348424 dystans: 75,68 metrow polaczone drogo: Plac Szczepañski
+	Nodee Id: 251689931 lat: 50.0645844 lon: 19.9342694 dystans: 86,17 metrow polaczone drogo: Œwiêtego Tomasza
+
+Node Id: 251688941 lat: 50.0617709 lon: 19.9342894
+	Nodee Id: 251689105 lat: 50.061016 lon: 19.9336966 dystans: 94,00 metrow polaczone drogo: Jagielloñska
+	Nodee Id: 256620826 lat: 50.062523 lon: 19.9349872 dystans: 97,34 metrow polaczone drogo: Jagielloñska
+
+Node Id: 251689105 lat: 50.061016 lon: 19.9336966
+	Nodee Id: 251688941 lat: 50.0617709 lon: 19.9342894 dystans: 94,00 metrow polaczone drogo: Jagielloñska
+	Nodee Id: 251691997 lat: 50.0604576 lon: 19.9333155 dystans: 67,79 metrow polaczone drogo: Jagielloñska
+
+Node Id: 251690116 lat: 50.0602198 lon: 19.9362505
+	Nodee Id: 251689118 lat: 50.0606209 lon: 19.9348253 dystans: 111,08 metrow polaczone drogo: Go³êbia
+	Nodee Id: 251690144 lat: 50.0594556 lon: 19.9362209 dystans: 85,00 metrow polaczone drogo: Bracka
+	Nodee Id: 2110897847 lat: 50.0609405 lon: 19.9365806 dystans: 83,53 metrow polaczone drogo: Bracka
+
+Node Id: 274088756 lat: 50.0671161 lon: 19.9424593
+	Nodee Id: 274088756 lat: 50.0671161 lon: 19.9424593 dystans: 0,00 metrow polaczone drogo: Plac Jana Matejki
+	Nodee Id: 274088756 lat: 50.0671161 lon: 19.9424593 dystans: 0,00 metrow polaczone drogo: Plac Jana Matejki
+
+Node Id: 2419367482 lat: 50.060506 lon: 19.9324181
+	Nodee Id: 2419894856 lat: 50.0619394 lon: 19.9317797 dystans: 165,77 metrow polaczone drogo: Floriana Straszewskiego
+	Nodee Id: 3024563489 lat: 50.0599542 lon: 19.9326733 dystans: 64,00 metrow polaczone drogo: Floriana Straszewskiego
+	Nodee Id: 2419821216 lat: 50.0596974 lon: 19.9267743 dystans: 412,80 metrow polaczone drogo: Marsza³ka Józefa Pi³sudskiego
+
+Node Id: 3010730376 lat: 50.0648756 lon: 19.9411608
+	Nodee Id: 4109275528 lat: 50.0648158 lon: 19.9412424 dystans: 8,84 metrow polaczone drogo: Zau³ek Czartoryskich
+	Nodee Id: 4109275528 lat: 50.0648158 lon: 19.9412424 dystans: 8,84 metrow polaczone drogo: Zau³ek Czartoryskich
+
+Node Id: 30375883 lat: 50.0644941 lon: 19.9424687
+	Nodee Id: 3010766612 lat: 50.0648103 lon: 19.9413309 dystans: 88,50 metrow polaczone drogo: Pijarska
+	Nodee Id: 251690477 lat: 50.0645067 lon: 19.9446359 dystans: 154,70 metrow polaczone drogo:  
+
+Node Id: 3010766612 lat: 50.0648103 lon: 19.9413309
+	Nodee Id: 30375883 lat: 50.0644941 lon: 19.9424687 dystans: 88,50 metrow polaczone drogo: Pijarska
+	Nodee Id: 4109275528 lat: 50.0648158 lon: 19.9412424 dystans: 6,35 metrow polaczone drogo: Pijarska
+
+Node Id: 278186364 lat: 50.0614403 lon: 19.9478824
+	Nodee Id: 251691060 lat: 50.0627945 lon: 19.951105 dystans: 274,94 metrow polaczone drogo: Miko³aja Kopernika
+	Nodee Id: 2665183464 lat: 50.0588701 lon: 19.9481828 dystans: 286,60 metrow polaczone drogo: Blich
+	Nodee Id: 276498392 lat: 50.0612344 lon: 19.9473341 dystans: 45,34 metrow polaczone drogo: Miko³aja Kopernika
+
+Node Id: 2419367407 lat: 50.0587045 lon: 19.9332501
+	Nodee Id: 2067207841 lat: 50.0553014 lon: 19.9348386 dystans: 395,03 metrow polaczone drogo: Floriana Straszewskiego
+	Nodee Id: 3024563471 lat: 50.0588017 lon: 19.9332013 dystans: 11,36 metrow polaczone drogo: Floriana Straszewskiego
+	Nodee Id: 3025253161 lat: 50.0588689 lon: 19.9333403 dystans: 19,38 metrow polaczone drogo: Floriana Straszewskiego
+	Nodee Id: 4213480890 lat: 50.0590326 lon: 19.9339926 dystans: 64,35 metrow polaczone drogo: Franciszkañska
+	Nodee Id: 3024563466 lat: 50.0584698 lon: 19.9325055 dystans: 59,22 metrow polaczone drogo: Zwierzyniecka
+
+Node Id: 273459812 lat: 50.0692717 lon: 19.9260685
+	Nodee Id: 273459812 lat: 50.0692717 lon: 19.9260685 dystans: 0,00 metrow polaczone drogo: Plac Inwalidów
+	Nodee Id: 273459812 lat: 50.0692717 lon: 19.9260685 dystans: 0,00 metrow polaczone drogo: Plac Inwalidów
+
+Node Id: 278063890 lat: 50.052403 lon: 19.9402367
+	Nodee Id: 236140518 lat: 50.0513352 lon: 19.9355672 dystans: 353,90 metrow polaczone drogo: Koletek
+	Nodee Id: 278063891 lat: 50.0530317 lon: 19.9402236 dystans: 69,91 metrow polaczone drogo: Œwiêtej Agnieszki
+	Nodee Id: 290613924 lat: 50.0514934 lon: 19.9407388 dystans: 107,31 metrow polaczone drogo: Œwiêtej Agnieszki
+
+Node Id: 278186353 lat: 50.0598224 lon: 19.9455596
+	Nodee Id: 278186350 lat: 50.0584111 lon: 19.9457296 dystans: 157,40 metrow polaczone drogo: Librowszczyzna
+	Nodee Id: 226836020 lat: 50.060746 lon: 19.9437267 dystans: 166,33 metrow polaczone drogo: Miko³aja Zyblikiewicza
+	Nodee Id: 278186354 lat: 50.0596872 lon: 19.9474063 dystans: 132,68 metrow polaczone drogo: Miko³aja Zyblikiewicza
+
+Node Id: 226836020 lat: 50.060746 lon: 19.9437267
+	Nodee Id: 278186353 lat: 50.0598224 lon: 19.9455596 dystans: 166,33 metrow polaczone drogo: Miko³aja Zyblikiewicza
+	Nodee Id: 226835922 lat: 50.061175 lon: 19.9441216 dystans: 55,41 metrow polaczone drogo: Westerplatte
+	Nodee Id: 226836665 lat: 50.0595852 lon: 19.9421295 dystans: 172,22 metrow polaczone drogo: Westerplatte
+
+Node Id: 278186359 lat: 50.0591212 lon: 19.9474475
+	Nodee Id: 278186358 lat: 50.0590586 lon: 19.945655 dystans: 128,15 metrow polaczone drogo: Bonerowska
+	Nodee Id: 278186354 lat: 50.0596872 lon: 19.9474063 dystans: 63,01 metrow polaczone drogo: Morsztynowska
+	Nodee Id: 4157622056 lat: 50.0587535 lon: 19.9474795 dystans: 40,95 metrow polaczone drogo: Morsztynowska
+
+Node Id: 278186354 lat: 50.0596872 lon: 19.9474063
+	Nodee Id: 278186353 lat: 50.0598224 lon: 19.9455596 dystans: 132,68 metrow polaczone drogo: Miko³aja Zyblikiewicza
+	Nodee Id: 278186359 lat: 50.0591212 lon: 19.9474475 dystans: 63,01 metrow polaczone drogo: Morsztynowska
+
+Node Id: 2665183464 lat: 50.0588701 lon: 19.9481828
+	Nodee Id: 278186364 lat: 50.0614403 lon: 19.9478824 dystans: 286,60 metrow polaczone drogo: Blich
+	Nodee Id: 278213733 lat: 50.0584477 lon: 19.9482403 dystans: 47,15 metrow polaczone drogo: Blich
+
+Node Id: 278189882 lat: 50.0627778 lon: 19.9449661
+	Nodee Id: 278189880 lat: 50.0629296 lon: 19.9469135 dystans: 140,03 metrow polaczone drogo: Marii Sk³odowskiej-Curie
+	Nodee Id: 226835922 lat: 50.061175 lon: 19.9441216 dystans: 188,14 metrow polaczone drogo: Westerplatte
+	Nodee Id: 277478868 lat: 50.0633874 lon: 19.9450626 dystans: 68,13 metrow polaczone drogo: Westerplatte
+
+Node Id: 278189887 lat: 50.063541 lon: 19.9467724
+	Nodee Id: 277478868 lat: 50.0633874 lon: 19.9450626 dystans: 123,24 metrow polaczone drogo: Doktora Ludwika Zamenhofa
+	Nodee Id: 278189885 lat: 50.0635908 lon: 19.9473311 dystans: 40,26 metrow polaczone drogo: Doktora Ludwika Zamenhofa
+
+Node Id: 278192365 lat: 50.0538296 lon: 19.945033
+	Nodee Id: 251767754 lat: 50.052664 lon: 19.9442557 dystans: 140,99 metrow polaczone drogo: Podbrzezie
+	Nodee Id: 32122180 lat: 50.0541191 lon: 19.9456923 dystans: 57,03 metrow polaczone drogo: Berka Joselewicza
+	Nodee Id: 278192364 lat: 50.0536423 lon: 19.9459689 dystans: 69,99 metrow polaczone drogo: Brzozowa
+	Nodee Id: 3417858247 lat: 50.0540934 lon: 19.9439961 dystans: 79,63 metrow polaczone drogo: Brzozowa
+
+Node Id: 32122180 lat: 50.0541191 lon: 19.9456923
+	Nodee Id: 278192365 lat: 50.0538296 lon: 19.945033 dystans: 57,03 metrow polaczone drogo: Berka Joselewicza
+	Nodee Id: 32122178 lat: 50.0531358 lon: 19.9462155 dystans: 115,54 metrow polaczone drogo: Brzozowa
+	Nodee Id: 34805993 lat: 50.0549985 lon: 19.9446182 dystans: 124,27 metrow polaczone drogo: Œwiêtego Sebastiana
+	Nodee Id: 278192367 lat: 50.0548213 lon: 19.9471577 dystans: 130,55 metrow polaczone drogo: Berka Joselewicza
+
+Node Id: 278198323 lat: 50.0527037 lon: 19.9479184
+	Nodee Id: 278198320 lat: 50.0529947 lon: 19.9476184 dystans: 38,80 metrow polaczone drogo: Szeroka
+	Nodee Id: 278198334 lat: 50.0531186 lon: 19.9480646 dystans: 47,30 metrow polaczone drogo: Szeroka
+	Nodee Id: 278198332 lat: 50.0518529 lon: 19.9484298 dystans: 101,41 metrow polaczone drogo: Szeroka
+
+Node Id: 278198320 lat: 50.0529947 lon: 19.9476184
+	Nodee Id: 278198323 lat: 50.0527037 lon: 19.9479184 dystans: 38,80 metrow polaczone drogo: Szeroka
+	Nodee Id: 278198334 lat: 50.0531186 lon: 19.9480646 dystans: 34,71 metrow polaczone drogo: Szeroka
+	Nodee Id: 278198319 lat: 50.0533192 lon: 19.9469932 dystans: 57,40 metrow polaczone drogo: Szeroka
+
+Node Id: 278198334 lat: 50.0531186 lon: 19.9480646
+	Nodee Id: 278198323 lat: 50.0527037 lon: 19.9479184 dystans: 47,30 metrow polaczone drogo: Szeroka
+	Nodee Id: 278198320 lat: 50.0529947 lon: 19.9476184 dystans: 34,71 metrow polaczone drogo: Szeroka
+
+Node Id: 251693126 lat: 50.0572143 lon: 19.9229888
+	Nodee Id: 618318827 lat: 50.058854 lon: 19.9224736 dystans: 186,00 metrow polaczone drogo: Józefa Ka³u¿y
+	Nodee Id: 251693128 lat: 50.0569117 lon: 19.9225871 dystans: 44,21 metrow polaczone drogo: Zbigniewa Dunin-W¹sowicza
+	Nodee Id: 2499424236 lat: 50.0580309 lon: 19.9252272 dystans: 183,79 metrow polaczone drogo: Zbigniewa Dunin-W¹sowicza
+
+Node Id: 1919370800 lat: 50.0547533 lon: 19.9249163
+	Nodee Id: 30372075 lat: 50.0540251 lon: 19.9240369 dystans: 102,46 metrow polaczone drogo: Tatarska
+	Nodee Id: 1919370802 lat: 50.0548001 lon: 19.9250534 dystans: 11,09 metrow polaczone drogo: Tatarska
+
+Node Id: 1295312873 lat: 50.0693263 lon: 19.9450906
+	Nodee Id: 226010241 lat: 50.0685272 lon: 19.9451882 dystans: 89,13 metrow polaczone drogo: Pawia
+	Nodee Id: 226010249 lat: 50.0697567 lon: 19.9450203 dystans: 48,12 metrow polaczone drogo: Pawia
+
+Node Id: 3455966393 lat: 50.0693938 lon: 19.9241689
+	Nodee Id: 206350843 lat: 50.0694355 lon: 19.9231749 dystans: 71,09 metrow polaczone drogo: Juliusza Lea
+	Nodee Id: 273461463 lat: 50.069406 lon: 19.9241969 dystans: 2,42 metrow polaczone drogo: Juliusza Lea
+
+Node Id: 2509782477 lat: 50.0591732 lon: 19.9379694
+	Nodee Id: 2419768573 lat: 50.0592199 lon: 19.9387187 dystans: 53,74 metrow polaczone drogo: Plac Dominikañski
+	Nodee Id: 290148694 lat: 50.0591231 lon: 19.9378554 dystans: 9,86 metrow polaczone drogo:  
+
+Node Id: 251693214 lat: 50.0553988 lon: 19.9247456
+	Nodee Id: 251693213 lat: 50.0560126 lon: 19.9240361 dystans: 84,99 metrow polaczone drogo: W³óczków
+	Nodee Id: 251693217 lat: 50.0544672 lon: 19.9256281 dystans: 121,24 metrow polaczone drogo: W³óczków
+	Nodee Id: 273761484 lat: 50.0558207 lon: 19.9256879 dystans: 82,01 metrow polaczone drogo: Kazimierza Morawskiego
+
+Node Id: 226010249 lat: 50.0697567 lon: 19.9450203
+	Nodee Id: 310654608 lat: 50.0704089 lon: 19.9449702 dystans: 72,61 metrow polaczone drogo: Pawia
+	Nodee Id: 226010253 lat: 50.0704019 lon: 19.9448267 dystans: 73,06 metrow polaczone drogo: Pawia
+	Nodee Id: 1295312873 lat: 50.0693263 lon: 19.9450906 dystans: 48,12 metrow polaczone drogo: Pawia
+
+Node Id: 311337269 lat: 50.0646202 lon: 19.9468384
+	Nodee Id: 272801059 lat: 50.0645015 lon: 19.9454697 dystans: 98,58 metrow polaczone drogo: Lubicz
+	Nodee Id: 3021379406 lat: 50.0646532 lon: 19.9472721 dystans: 31,17 metrow polaczone drogo:  
+
+Node Id: 207440039 lat: 50.0552932 lon: 19.9275792
+	Nodee Id: 2419720318 lat: 50.055216 lon: 19.9274248 dystans: 13,97 metrow polaczone drogo:  
+	Nodee Id: 663041732 lat: 50.0560693 lon: 19.9272121 dystans: 90,19 metrow polaczone drogo: Aleja Zygmunta Krasiñskiego
+	Nodee Id: 1169737316 lat: 50.0551792 lon: 19.9276337 dystans: 13,26 metrow polaczone drogo: Aleja Zygmunta Krasiñskiego
+	Nodee Id: 752177519 lat: 50.0554177 lon: 19.9278335 dystans: 22,83 metrow polaczone drogo: Zwierzyniecka
+
+Node Id: 2419720318 lat: 50.055216 lon: 19.9274248
+	Nodee Id: 207440039 lat: 50.0552932 lon: 19.9275792 dystans: 13,97 metrow polaczone drogo:  
+	Nodee Id: 30372078 lat: 50.0546323 lon: 19.9261351 dystans: 112,65 metrow polaczone drogo: Tadeusza Koœciuszki
+	Nodee Id: 1876808668 lat: 50.055126 lon: 19.9275096 dystans: 11,70 metrow polaczone drogo: Aleja Zygmunta Krasiñskiego
+	Nodee Id: 207439169 lat: 50.055986 lon: 19.926883 dystans: 93,95 metrow polaczone drogo: Aleja Zygmunta Krasiñskiego
+
+Node Id: 2419821216 lat: 50.0596974 lon: 19.9267743
+	Nodee Id: 226214980 lat: 50.0593596 lon: 19.9252909 dystans: 112,36 metrow polaczone drogo: Marsza³ka Józefa Pi³sudskiego
+	Nodee Id: 2419367482 lat: 50.060506 lon: 19.9324181 dystans: 412,80 metrow polaczone drogo: Marsza³ka Józefa Pi³sudskiego
+
+Node Id: 262210524 lat: 50.0638776 lon: 19.9236128
+	Nodee Id: 1448935649 lat: 50.0639433 lon: 19.9234854 dystans: 11,66 metrow polaczone drogo: W³adys³awa Reymonta
+	Nodee Id: 2485578312 lat: 50.0639663 lon: 19.9226352 dystans: 70,47 metrow polaczone drogo: W³adys³awa Reymonta
+	Nodee Id: 236151783 lat: 50.0638173 lon: 19.9240608 dystans: 32,67 metrow polaczone drogo: Aleja Adama Mickiewicza
+	Nodee Id: 1167933712 lat: 50.0644128 lon: 19.9238154 dystans: 61,24 metrow polaczone drogo: Aleja Adama Mickiewicza
+	Nodee Id: 207437974 lat: 50.0626913 lon: 19.9232133 dystans: 134,96 metrow polaczone drogo: Aleja Adama Mickiewicza
+
+Node Id: 1448935649 lat: 50.0639433 lon: 19.9234854
+	Nodee Id: 262210524 lat: 50.0638776 lon: 19.9236128 dystans: 11,66 metrow polaczone drogo: W³adys³awa Reymonta
+	Nodee Id: 264342689 lat: 50.0640693 lon: 19.9226264 dystans: 62,90 metrow polaczone drogo: W³adys³awa Reymonta
+
+Node Id: 258237443 lat: 50.0565839 lon: 19.9452209
+	Nodee Id: 288492176 lat: 50.0564182 lon: 19.9453905 dystans: 22,05 metrow polaczone drogo: Starowiœlna
+	Nodee Id: 2262145782 lat: 50.057246 lon: 19.945741 dystans: 82,46 metrow polaczone drogo: Józefa Dietla
+	Nodee Id: 2599966844 lat: 50.0552594 lon: 19.9441561 dystans: 165,74 metrow polaczone drogo: Józefa Dietla
+	Nodee Id: 2262210339 lat: 50.0570602 lon: 19.9447222 dystans: 63,82 metrow polaczone drogo: Starowiœlna
+
+Node Id: 288492176 lat: 50.0564182 lon: 19.9453905
+	Nodee Id: 258237443 lat: 50.0565839 lon: 19.9452209 dystans: 22,05 metrow polaczone drogo: Starowiœlna
+	Nodee Id: 261708619 lat: 50.0562583 lon: 19.9455737 dystans: 22,07 metrow polaczone drogo: Starowiœlna
+
+Node Id: 2418596893 lat: 50.0518729 lon: 19.9414963
+	Nodee Id: 236136675 lat: 50.0540859 lon: 19.9391841 dystans: 296,32 metrow polaczone drogo: Stradomska
+	Nodee Id: 2262608102 lat: 50.0524342 lon: 19.9419557 dystans: 70,51 metrow polaczone drogo: Józefa Dietla
+
+Node Id: 266695294 lat: 50.0621873 lon: 19.9232885
+	Nodee Id: 273535635 lat: 50.0619234 lon: 19.9195411 dystans: 269,10 metrow polaczone drogo: Romana Ingardena
+	Nodee Id: 273532982 lat: 50.0608459 lon: 19.9239765 dystans: 157,03 metrow polaczone drogo: Aleja Adama Mickiewicza
+	Nodee Id: 207437974 lat: 50.0626913 lon: 19.9232133 dystans: 56,30 metrow polaczone drogo: Aleja Adama Mickiewicza
+
+Node Id: 251689486 lat: 50.0617852 lon: 19.9433418
+	Nodee Id: 251689485 lat: 50.0620827 lon: 19.9423896 dystans: 75,59 metrow polaczone drogo: Œwiêtego Tomasza
+	Nodee Id: 378365965 lat: 50.0613597 lon: 19.9432309 dystans: 47,97 metrow polaczone drogo: Œwiêtego Marka
+	Nodee Id: 251689493 lat: 50.0628116 lon: 19.9429873 dystans: 116,90 metrow polaczone drogo: Œwiêtego Marka
+
+Node Id: 1676074020 lat: 50.0657553 lon: 19.924789
+	Nodee Id: 236150723 lat: 50.06475 lon: 19.9243556 dystans: 115,99 metrow polaczone drogo: Aleja Adama Mickiewicza
+	Nodee Id: 1676074015 lat: 50.0657075 lon: 19.9252246 dystans: 31,54 metrow polaczone drogo: Czarnowiejska
+	Nodee Id: 207437138 lat: 50.0658217 lon: 19.9248162 dystans: 7,63 metrow polaczone drogo: Aleja Adama Mickiewicza
+	Nodee Id: 1875729775 lat: 50.0658134 lon: 19.9244298 dystans: 26,44 metrow polaczone drogo: Czarnowiejska
+
+Node Id: 207439169 lat: 50.055986 lon: 19.926883
+	Nodee Id: 207439167 lat: 50.0581534 lon: 19.9256441 dystans: 256,72 metrow polaczone drogo: Aleja Zygmunta Krasiñskiego
+	Nodee Id: 2419720318 lat: 50.055216 lon: 19.9274248 dystans: 93,95 metrow polaczone drogo: Aleja Zygmunta Krasiñskiego
+
+Node Id: 30372096 lat: 50.0589162 lon: 19.9412015
+	Nodee Id: 226836665 lat: 50.0595852 lon: 19.9421295 dystans: 99,61 metrow polaczone drogo: Œwiêtej Gertrudy
+	Nodee Id: 236136675 lat: 50.0540859 lon: 19.9391841 dystans: 556,08 metrow polaczone drogo: Œwiêtej Gertrudy
+	Nodee Id: 2419768569 lat: 50.0591021 lon: 19.9387054 dystans: 179,38 metrow polaczone drogo: Dominikañska
+
+Node Id: 2262608105 lat: 50.0574705 lon: 19.9465404
+	Nodee Id: 261708619 lat: 50.0562583 lon: 19.9455737 dystans: 151,43 metrow polaczone drogo: Józefa Dietla
+	Nodee Id: 261708613 lat: 50.0577754 lon: 19.9467593 dystans: 37,33 metrow polaczone drogo: Józefa Dietla
+
+Node Id: 261747338 lat: 50.0662729 lon: 19.9391219
+	Nodee Id: 596531118 lat: 50.0658223 lon: 19.9414414 dystans: 172,97 metrow polaczone drogo: Basztowa
+	Nodee Id: 206372388 lat: 50.066243 lon: 19.9383832 dystans: 52,83 metrow polaczone drogo: Basztowa
+	Nodee Id: 272783544 lat: 50.0675752 lon: 19.9386721 dystans: 148,33 metrow polaczone drogo: D³uga
+	Nodee Id: 2597283213 lat: 50.0658895 lon: 19.9390543 dystans: 42,90 metrow polaczone drogo: S³awkowska
+	Nodee Id: 2597283213 lat: 50.0658895 lon: 19.9390543 dystans: 42,90 metrow polaczone drogo: S³awkowska
+
+Node Id: 596531118 lat: 50.0658223 lon: 19.9414414
+	Nodee Id: 261747338 lat: 50.0662729 lon: 19.9391219 dystans: 172,97 metrow polaczone drogo: Basztowa
+	Nodee Id: 414635892 lat: 50.0657808 lon: 19.9415739 dystans: 10,52 metrow polaczone drogo: Basztowa
+
+Node Id: 3024563489 lat: 50.0599542 lon: 19.9326733
+	Nodee Id: 2419367482 lat: 50.060506 lon: 19.9324181 dystans: 64,00 metrow polaczone drogo: Floriana Straszewskiego
+	Nodee Id: 602651341 lat: 50.0591272 lon: 19.9330284 dystans: 95,39 metrow polaczone drogo: Floriana Straszewskiego
+	Nodee Id: 3024563478 lat: 50.0590352 lon: 19.9336811 dystans: 124,97 metrow polaczone drogo: Floriana Straszewskiego
+
+Node Id: 251767753 lat: 50.0520611 lon: 19.9431644
+	Nodee Id: 251767742 lat: 50.0524385 lon: 19.9426276 dystans: 56,83 metrow polaczone drogo: Bo¿ego Cia³a
+	Nodee Id: 32122178 lat: 50.0531358 lon: 19.9462155 dystans: 248,46 metrow polaczone drogo: Miodowa
+
+Node Id: 278194687 lat: 50.0534778 lon: 19.9485864
+	Nodee Id: 2419106068 lat: 50.0530994 lon: 19.9487166 dystans: 43,09 metrow polaczone drogo: Starowiœlna
+	Nodee Id: 264464994 lat: 50.0536589 lon: 19.9484026 dystans: 24,04 metrow polaczone drogo: Starowiœlna
+	Nodee Id: 261708618 lat: 50.0499033 lon: 19.9524115 dystans: 482,25 metrow polaczone drogo: Starowiœlna
+
+Node Id: 2419106068 lat: 50.0530994 lon: 19.9487166
+	Nodee Id: 278194687 lat: 50.0534778 lon: 19.9485864 dystans: 43,09 metrow polaczone drogo: Starowiœlna
+	Nodee Id: 278217722 lat: 50.0526362 lon: 19.9489599 dystans: 54,36 metrow polaczone drogo: Starowiœlna
+
+Node Id: 471984788 lat: 50.0599283 lon: 19.9235656
+	Nodee Id: 471984788 lat: 50.0599283 lon: 19.9235656 dystans: 0,00 metrow polaczone drogo:  
+	Nodee Id: 471984788 lat: 50.0599283 lon: 19.9235656 dystans: 0,00 metrow polaczone drogo:  
+
+Node Id: 660826210 lat: 50.0651165 lon: 19.9471543
+	Nodee Id: 272801047 lat: 50.0652696 lon: 19.9454062 dystans: 125,93 metrow polaczone drogo: Plac Jana Nowaka-Jeziorañskiego
+	Nodee Id: 272801047 lat: 50.0652696 lon: 19.9454062 dystans: 125,93 metrow polaczone drogo: Plac Jana Nowaka-Jeziorañskiego
+
+Node Id: 724399317 lat: 50.0698035 lon: 19.9255017
+	Nodee Id: 494604313 lat: 50.070089 lon: 19.9250791 dystans: 43,79 metrow polaczone drogo: Królewska
+	Nodee Id: 724399309 lat: 50.0694081 lon: 19.9259908 dystans: 56,14 metrow polaczone drogo: Królewska
+
+Node Id: 290370921 lat: 50.0570128 lon: 19.925082
+	Nodee Id: 273761484 lat: 50.0558207 lon: 19.9256879 dystans: 139,43 metrow polaczone drogo: W³adys³awa Syrokomli
+	Nodee Id: 251693124 lat: 50.0578309 lon: 19.9246319 dystans: 96,48 metrow polaczone drogo: W³adys³awa Syrokomli
+	Nodee Id: 251693212 lat: 50.0563041 lon: 19.9237479 dystans: 123,62 metrow polaczone drogo: Kornela Ujejskiego
+
+Node Id: 571611842 lat: 50.059197 lon: 19.9369534
+	Nodee Id: 290148694 lat: 50.0591231 lon: 19.9378554 dystans: 64,91 metrow polaczone drogo: Plac Wszystkich Œwiêtych
+	Nodee Id: 272798850 lat: 50.0593728 lon: 19.9365596 dystans: 34,24 metrow polaczone drogo: Franciszkañska
+
+Node Id: 272798925 lat: 50.060723 lon: 19.9402552
+	Nodee Id: 226836665 lat: 50.0595852 lon: 19.9421295 dystans: 184,14 metrow polaczone drogo: Sienna
+	Nodee Id: 272798927 lat: 50.0608454 lon: 19.9398548 dystans: 31,66 metrow polaczone drogo: Sienna
+
+Node Id: 251690144 lat: 50.0594556 lon: 19.9362209
+	Nodee Id: 251690116 lat: 50.0602198 lon: 19.9362505 dystans: 85,00 metrow polaczone drogo: Bracka
+	Nodee Id: 272798850 lat: 50.0593728 lon: 19.9365596 dystans: 25,87 metrow polaczone drogo: Franciszkañska
+	Nodee Id: 2419367450 lat: 50.0593749 lon: 19.9348836 dystans: 95,89 metrow polaczone drogo: Franciszkañska
+
+Node Id: 2597283213 lat: 50.0658895 lon: 19.9390543
+	Nodee Id: 251688755 lat: 50.0653243 lon: 19.9387072 dystans: 67,55 metrow polaczone drogo: S³awkowska
+	Nodee Id: 261747338 lat: 50.0662729 lon: 19.9391219 dystans: 42,90 metrow polaczone drogo: S³awkowska
+	Nodee Id: 261747338 lat: 50.0662729 lon: 19.9391219 dystans: 42,90 metrow polaczone drogo: S³awkowska
+
+Node Id: 262201256 lat: 50.0652943 lon: 19.9271591
+	Nodee Id: 261677469 lat: 50.0644941 lon: 19.9275976 dystans: 94,32 metrow polaczone drogo: Dolnych M³ynów
+	Nodee Id: 1676074015 lat: 50.0657075 lon: 19.9252246 dystans: 145,52 metrow polaczone drogo: Czarnowiejska
+	Nodee Id: 262201255 lat: 50.0660515 lon: 19.9279741 dystans: 102,34 metrow polaczone drogo: Piotra Micha³owskiego
+
+Node Id: 1676074015 lat: 50.0657075 lon: 19.9252246
+	Nodee Id: 262201256 lat: 50.0652943 lon: 19.9271591 dystans: 145,52 metrow polaczone drogo: Czarnowiejska
+	Nodee Id: 1676074020 lat: 50.0657553 lon: 19.924789 dystans: 31,54 metrow polaczone drogo: Czarnowiejska
+	Nodee Id: 207437138 lat: 50.0658217 lon: 19.9248162 dystans: 31,80 metrow polaczone drogo: Czarnowiejska
+
+Node Id: 30375877 lat: 50.063715 lon: 19.9419082
+	Nodee Id: 279027551 lat: 50.0640193 lon: 19.9421362 dystans: 37,55 metrow polaczone drogo: Szpitalna
+	Nodee Id: 272798899 lat: 50.0633851 lon: 19.9428358 dystans: 75,69 metrow polaczone drogo: Plac Œwiêtego Ducha
+	Nodee Id: 30375873 lat: 50.0632519 lon: 19.941551 dystans: 57,46 metrow polaczone drogo: Szpitalna
+
+Node Id: 279027551 lat: 50.0640193 lon: 19.9421362
+	Nodee Id: 30375877 lat: 50.063715 lon: 19.9419082 dystans: 37,55 metrow polaczone drogo: Szpitalna
+	Nodee Id: 2420153454 lat: 50.065279 lon: 19.943047 dystans: 154,42 metrow polaczone drogo: Szpitalna
+
+Node Id: 2485578312 lat: 50.0639663 lon: 19.9226352
+	Nodee Id: 264342692 lat: 50.0639717 lon: 19.9225964 dystans: 2,83 metrow polaczone drogo: W³adys³awa Reymonta
+	Nodee Id: 262210524 lat: 50.0638776 lon: 19.9236128 dystans: 70,47 metrow polaczone drogo: W³adys³awa Reymonta
+
+Node Id: 1655086741 lat: 50.0553141 lon: 19.9320775
+	Nodee Id: 2403443561 lat: 50.0551868 lon: 19.9326157 dystans: 40,95 metrow polaczone drogo: Powiœle
+	Nodee Id: 236139461 lat: 50.0554144 lon: 19.9315797 dystans: 37,25 metrow polaczone drogo: Powiœle
+
+Node Id: 2067207833 lat: 50.0547591 lon: 19.9384783
+	Nodee Id: 30375949 lat: 50.0545799 lon: 19.9384098 dystans: 20,52 metrow polaczone drogo: Grodzka
+	Nodee Id: 30375940 lat: 50.0554003 lon: 19.9383315 dystans: 72,06 metrow polaczone drogo: Grodzka
+
+Node Id: 251693217 lat: 50.0544672 lon: 19.9256281
+	Nodee Id: 251693214 lat: 50.0553988 lon: 19.9247456 dystans: 121,24 metrow polaczone drogo: W³óczków
+	Nodee Id: 283044048 lat: 50.0545117 lon: 19.925778 dystans: 11,79 metrow polaczone drogo: Tadeusza Koœciuszki
+	Nodee Id: 630963217 lat: 50.0534778 lon: 19.9221107 dystans: 274,16 metrow polaczone drogo: Tadeusza Koœciuszki
+
+Node Id: 283044048 lat: 50.0545117 lon: 19.925778
+	Nodee Id: 30372078 lat: 50.0546323 lon: 19.9261351 dystans: 28,81 metrow polaczone drogo: Tadeusza Koœciuszki
+	Nodee Id: 251693217 lat: 50.0544672 lon: 19.9256281 dystans: 11,79 metrow polaczone drogo: Tadeusza Koœciuszki
+
+Node Id: 30372078 lat: 50.0546323 lon: 19.9261351
+	Nodee Id: 283044048 lat: 50.0545117 lon: 19.925778 dystans: 28,81 metrow polaczone drogo: Tadeusza Koœciuszki
+	Nodee Id: 2419720318 lat: 50.055216 lon: 19.9274248 dystans: 112,65 metrow polaczone drogo: Tadeusza Koœciuszki
+	Nodee Id: 1169737288 lat: 50.0547579 lon: 19.9266559 dystans: 39,72 metrow polaczone drogo: Tadeusza Koœciuszki
+
+Node Id: 1780711571 lat: 50.0531409 lon: 19.9291197
+	Nodee Id: 2984320935 lat: 50.0530762 lon: 19.9289406 dystans: 14,67 metrow polaczone drogo: Genera³a Antoniego Józefa Madaliñskiego
+	Nodee Id: 278234287 lat: 50.053302 lon: 19.929629 dystans: 40,53 metrow polaczone drogo: Zamkowa
+	Nodee Id: 3037566731 lat: 50.0534062 lon: 19.9289242 dystans: 32,64 metrow polaczone drogo: Marii Konopnickiej
+	Nodee Id: 2696918418 lat: 50.0529395 lon: 19.9292764 dystans: 25,03 metrow polaczone drogo: Marii Konopnickiej
+
+Node Id: 2984320935 lat: 50.0530762 lon: 19.9289406
+	Nodee Id: 1780711571 lat: 50.0531409 lon: 19.9291197 dystans: 14,67 metrow polaczone drogo: Genera³a Antoniego Józefa Madaliñskiego
+	Nodee Id: 2068887050 lat: 50.0530235 lon: 19.9287872 dystans: 12,42 metrow polaczone drogo: Genera³a Antoniego Józefa Madaliñskiego
+
+Node Id: 2420153454 lat: 50.065279 lon: 19.943047
+	Nodee Id: 262193751 lat: 50.0656981 lon: 19.9418248 dystans: 98,90 metrow polaczone drogo: Basztowa
+	Nodee Id: 2420153436 lat: 50.0646229 lon: 19.9449476 dystans: 154,03 metrow polaczone drogo: Basztowa
+	Nodee Id: 279027551 lat: 50.0640193 lon: 19.9421362 dystans: 154,42 metrow polaczone drogo: Szpitalna
+
+Node Id: 752177431 lat: 50.0529108 lon: 19.9354053
+	Nodee Id: 752177468 lat: 50.0528995 lon: 19.9353951 dystans: 1,45 metrow polaczone drogo:  
+	Nodee Id: 30375950 lat: 50.0540691 lon: 19.9382008 dystans: 237,54 metrow polaczone drogo: Droga do Zamku
+
+Node Id: 752177468 lat: 50.0528995 lon: 19.9353951
+	Nodee Id: 752177431 lat: 50.0529108 lon: 19.9354053 dystans: 1,45 metrow polaczone drogo:  
+	Nodee Id: 30376010 lat: 50.0536926 lon: 19.9341876 dystans: 123,33 metrow polaczone drogo: Droga do Zamku
+
+Node Id: 30376010 lat: 50.0536926 lon: 19.9341876
+	Nodee Id: 752177468 lat: 50.0528995 lon: 19.9353951 dystans: 123,33 metrow polaczone drogo: Droga do Zamku
+	Nodee Id: 1204208867 lat: 50.0542617 lon: 19.9351203 dystans: 91,86 metrow polaczone drogo:  
+	Nodee Id: 2115812937 lat: 50.0532044 lon: 19.9353147 dystans: 97,07 metrow polaczone drogo: Zamek Wawel
+
+Node Id: 494601371 lat: 50.0693613 lon: 19.9260484
+	Nodee Id: 2468665585 lat: 50.0692018 lon: 19.9262873 dystans: 24,60 metrow polaczone drogo: Królewska
+	Nodee Id: 494601377 lat: 50.0689643 lon: 19.9261088 dystans: 44,35 metrow polaczone drogo: Królewska
+	Nodee Id: 724399309 lat: 50.0694081 lon: 19.9259908 dystans: 6,63 metrow polaczone drogo: Królewska
+
+Node Id: 32122182 lat: 50.0553402 lon: 19.9442119
+	Nodee Id: 278192363 lat: 50.0557669 lon: 19.9401805 dystans: 291,69 metrow polaczone drogo: Œwiêtego Sebastiana
+	Nodee Id: 2988407066 lat: 50.0552906 lon: 19.9442748 dystans: 7,11 metrow polaczone drogo: Œwiêtego Sebastiana
+
+Node Id: 2110897868 lat: 50.062468 lon: 19.9380846
+	Nodee Id: 251689745 lat: 50.0631804 lon: 19.9386136 dystans: 87,75 metrow polaczone drogo: Œwiêtego Jana
+	Nodee Id: 1913862676 lat: 50.0623226 lon: 19.9379745 dystans: 17,98 metrow polaczone drogo: Œwiêtego Jana
+
+Node Id: 278213733 lat: 50.0584477 lon: 19.9482403
+	Nodee Id: 278213730 lat: 50.0582718 lon: 19.9482689 dystans: 19,67 metrow polaczone drogo:  
+	Nodee Id: 34806013 lat: 50.0585992 lon: 19.949236 dystans: 73,05 metrow polaczone drogo: Grzegórzecka
+	Nodee Id: 1924864891 lat: 50.0583725 lon: 19.9477562 dystans: 35,56 metrow polaczone drogo: Józefa Dietla
+	Nodee Id: 2665183464 lat: 50.0588701 lon: 19.9481828 dystans: 47,15 metrow polaczone drogo: Blich
+
+Node Id: 226010207 lat: 50.067281 lon: 19.9451247
+	Nodee Id: 226010241 lat: 50.0685272 lon: 19.9451882 dystans: 138,65 metrow polaczone drogo: Pawia
+	Nodee Id: 2689497891 lat: 50.0648218 lon: 19.944982 dystans: 273,64 metrow polaczone drogo: Pawia
+	Nodee Id: 226834652 lat: 50.0672776 lon: 19.9437108 dystans: 100,92 metrow polaczone drogo: Kurniki
+
+Node Id: 2262608103 lat: 50.054252 lon: 19.9440457
+	Nodee Id: 963335628 lat: 50.0519242 lon: 19.9421265 dystans: 292,87 metrow polaczone drogo: Józefa Dietla
+	Nodee Id: 34805993 lat: 50.0549985 lon: 19.9446182 dystans: 92,52 metrow polaczone drogo: Józefa Dietla
+
+Node Id: 1169737288 lat: 50.0547579 lon: 19.9266559
+	Nodee Id: 30372078 lat: 50.0546323 lon: 19.9261351 dystans: 39,72 metrow polaczone drogo: Tadeusza Koœciuszki
+	Nodee Id: 1876808668 lat: 50.055126 lon: 19.9275096 dystans: 73,42 metrow polaczone drogo: Tadeusza Koœciuszki
+
+Node Id: 2143514404 lat: 50.0564661 lon: 19.9292942
+	Nodee Id: 2419720328 lat: 50.0564333 lon: 19.9292265 dystans: 6,05 metrow polaczone drogo: Zwierzyniecka
+	Nodee Id: 3024563466 lat: 50.0584698 lon: 19.9325055 dystans: 319,68 metrow polaczone drogo: Zwierzyniecka
+	Nodee Id: 2646085163 lat: 50.0564129 lon: 19.929273 dystans: 6,11 metrow polaczone drogo: Zwierzyniecka
+
+Node Id: 1169737316 lat: 50.0551792 lon: 19.9276337
+	Nodee Id: 2263117826 lat: 50.0556508 lon: 19.9284859 dystans: 80,32 metrow polaczone drogo: Zwierzyniecka
+	Nodee Id: 207440039 lat: 50.0552932 lon: 19.9275792 dystans: 13,26 metrow polaczone drogo: Aleja Zygmunta Krasiñskiego
+	Nodee Id: 1876808668 lat: 50.055126 lon: 19.9275096 dystans: 10,65 metrow polaczone drogo: Tadeusza Koœciuszki
+	Nodee Id: 3761874090 lat: 50.0550121 lon: 19.9276802 dystans: 18,87 metrow polaczone drogo: Aleja Zygmunta Krasiñskiego
+
+Node Id: 2263117826 lat: 50.0556508 lon: 19.9284859
+	Nodee Id: 1169737316 lat: 50.0551792 lon: 19.9276337 dystans: 80,32 metrow polaczone drogo: Zwierzyniecka
+	Nodee Id: 2143514396 lat: 50.0560602 lon: 19.9289356 dystans: 55,71 metrow polaczone drogo: Zwierzyniecka
+
+Node Id: 254348392 lat: 50.05853 lon: 19.9447567
+	Nodee Id: 1200446245 lat: 50.0578187 lon: 19.9457052 dystans: 104,12 metrow polaczone drogo: Wielopole
+	Nodee Id: 226836665 lat: 50.0595852 lon: 19.9421295 dystans: 221,23 metrow polaczone drogo: Wielopole
+	Nodee Id: 207469742 lat: 50.0583038 lon: 19.9467249 dystans: 142,74 metrow polaczone drogo: Wielopole
+
+Node Id: 34805993 lat: 50.0549985 lon: 19.9446182
+	Nodee Id: 2262608104 lat: 50.0557247 lon: 19.9451828 dystans: 90,25 metrow polaczone drogo: Józefa Dietla
+	Nodee Id: 32122180 lat: 50.0541191 lon: 19.9456923 dystans: 124,27 metrow polaczone drogo: Œwiêtego Sebastiana
+	Nodee Id: 2988407065 lat: 50.0550345 lon: 19.9445772 dystans: 4,96 metrow polaczone drogo: Œwiêtego Sebastiana
+	Nodee Id: 2262608103 lat: 50.054252 lon: 19.9440457 dystans: 92,52 metrow polaczone drogo: Józefa Dietla
+
+Node Id: 2262608104 lat: 50.0557247 lon: 19.9451828
+	Nodee Id: 34805993 lat: 50.0549985 lon: 19.9446182 dystans: 90,25 metrow polaczone drogo: Józefa Dietla
+	Nodee Id: 261708619 lat: 50.0562583 lon: 19.9455737 dystans: 65,57 metrow polaczone drogo: Józefa Dietla
+
+Node Id: 1204208700 lat: 50.0545164 lon: 19.9358824
+	Nodee Id: 1204208753 lat: 50.0545735 lon: 19.9362885 dystans: 29,68 metrow polaczone drogo:  
+	Nodee Id: 1204208867 lat: 50.0542617 lon: 19.9351203 dystans: 61,34 metrow polaczone drogo:  
+
+Node Id: 1305162491 lat: 50.0591538 lon: 19.9238906
+	Nodee Id: 1305162484 lat: 50.059296 lon: 19.9239091 dystans: 15,87 metrow polaczone drogo:  
+	Nodee Id: 226228402 lat: 50.0592537 lon: 19.9245534 dystans: 48,60 metrow polaczone drogo: Aleja Marsza³ka Ferdynanda Focha
+	Nodee Id: 278242808 lat: 50.0589419 lon: 19.9224658 dystans: 104,41 metrow polaczone drogo: Aleja Marsza³ka Ferdynanda Focha
+
+Node Id: 2115794921 lat: 50.055048 lon: 19.9351622
+	Nodee Id: 1204208869 lat: 50.0548008 lon: 19.9348121 dystans: 37,15 metrow polaczone drogo:  
+	Nodee Id: 3712371161 lat: 50.0554543 lon: 19.9365361 dystans: 107,99 metrow polaczone drogo:  
+
+Node Id: 1204208867 lat: 50.0542617 lon: 19.9351203
+	Nodee Id: 1204209065 lat: 50.0547374 lon: 19.9348314 dystans: 56,77 metrow polaczone drogo:  
+	Nodee Id: 30376010 lat: 50.0536926 lon: 19.9341876 dystans: 91,86 metrow polaczone drogo:  
+	Nodee Id: 1204208700 lat: 50.0545164 lon: 19.9358824 dystans: 61,34 metrow polaczone drogo:  
+
+Node Id: 418150494 lat: 50.0637228 lon: 19.9240264
+	Nodee Id: 236151783 lat: 50.0638173 lon: 19.9240608 dystans: 10,79 metrow polaczone drogo: Aleja Adama Mickiewicza
+	Nodee Id: 1325703552 lat: 50.0631176 lon: 19.9238151 dystans: 68,96 metrow polaczone drogo: Aleja Adama Mickiewicza
+
+Node Id: 236151783 lat: 50.0638173 lon: 19.9240608
+	Nodee Id: 418150494 lat: 50.0637228 lon: 19.9240264 dystans: 10,79 metrow polaczone drogo: Aleja Adama Mickiewicza
+	Nodee Id: 4306409281 lat: 50.0644921 lon: 19.9242765 dystans: 76,60 metrow polaczone drogo: Aleja Adama Mickiewicza
+	Nodee Id: 262210524 lat: 50.0638776 lon: 19.9236128 dystans: 32,67 metrow polaczone drogo: Aleja Adama Mickiewicza
+
+Node Id: 1167933712 lat: 50.0644128 lon: 19.9238154
+	Nodee Id: 265517200 lat: 50.065536 lon: 19.924225 dystans: 128,27 metrow polaczone drogo: Aleja Adama Mickiewicza
+	Nodee Id: 262210524 lat: 50.0638776 lon: 19.9236128 dystans: 61,24 metrow polaczone drogo: Aleja Adama Mickiewicza
+
+Node Id: 1876808668 lat: 50.055126 lon: 19.9275096
+	Nodee Id: 2419720318 lat: 50.055216 lon: 19.9274248 dystans: 11,70 metrow polaczone drogo: Aleja Zygmunta Krasiñskiego
+	Nodee Id: 1169737288 lat: 50.0547579 lon: 19.9266559 dystans: 73,42 metrow polaczone drogo: Tadeusza Koœciuszki
+	Nodee Id: 1169737316 lat: 50.0551792 lon: 19.9276337 dystans: 10,65 metrow polaczone drogo: Tadeusza Koœciuszki
+	Nodee Id: 3761874090 lat: 50.0550121 lon: 19.9276802 dystans: 17,57 metrow polaczone drogo: Aleja Zygmunta Krasiñskiego
+
+Node Id: 663041732 lat: 50.0560693 lon: 19.9272121
+	Nodee Id: 207440039 lat: 50.0552932 lon: 19.9275792 dystans: 90,19 metrow polaczone drogo: Aleja Zygmunta Krasiñskiego
+	Nodee Id: 2403408326 lat: 50.0563759 lon: 19.9270386 dystans: 36,27 metrow polaczone drogo: Aleja Zygmunta Krasiñskiego
+
+Node Id: 311337281 lat: 50.0648388 lon: 19.9468867
+	Nodee Id: 3021379414 lat: 50.064929 lon: 19.9468083 dystans: 11,49 metrow polaczone drogo:  
+	Nodee Id: 2560355768 lat: 50.0648518 lon: 19.9465771 dystans: 22,15 metrow polaczone drogo:  
+
+Node Id: 2599966844 lat: 50.0552594 lon: 19.9441561
+	Nodee Id: 2262608102 lat: 50.0524342 lon: 19.9419557 dystans: 351,24 metrow polaczone drogo: Józefa Dietla
+	Nodee Id: 258237443 lat: 50.0565839 lon: 19.9452209 dystans: 165,74 metrow polaczone drogo: Józefa Dietla
+
+Node Id: 2262608102 lat: 50.0524342 lon: 19.9419557
+	Nodee Id: 2599966844 lat: 50.0552594 lon: 19.9441561 dystans: 351,24 metrow polaczone drogo: Józefa Dietla
+	Nodee Id: 2418596893 lat: 50.0518729 lon: 19.9414963 dystans: 70,51 metrow polaczone drogo: Józefa Dietla
+
+Node Id: 2106196385 lat: 50.065836 lon: 19.9243328
+	Nodee Id: 1676326493 lat: 50.0660183 lon: 19.9236975 dystans: 49,67 metrow polaczone drogo: Czarnowiejska
+	Nodee Id: 236313351 lat: 50.0659452 lon: 19.9243694 dystans: 12,42 metrow polaczone drogo: Aleja Adama Mickiewicza
+	Nodee Id: 265517200 lat: 50.065536 lon: 19.924225 dystans: 34,23 metrow polaczone drogo: Aleja Adama Mickiewicza
+	Nodee Id: 1875729775 lat: 50.0658134 lon: 19.9244298 dystans: 7,37 metrow polaczone drogo: Czarnowiejska
+
+Node Id: 31349965 lat: 50.0682665 lon: 19.9256069
+	Nodee Id: 277929321 lat: 50.0688174 lon: 19.9260064 dystans: 67,57 metrow polaczone drogo: Aleja Adama Mickiewicza
+	Nodee Id: 261677470 lat: 50.0678267 lon: 19.9253278 dystans: 52,81 metrow polaczone drogo: Aleja Adama Mickiewicza
+
+Node Id: 1919370802 lat: 50.0548001 lon: 19.9250534
+	Nodee Id: 1919370800 lat: 50.0547533 lon: 19.9249163 dystans: 11,09 metrow polaczone drogo: Tatarska
+	Nodee Id: 251693215 lat: 50.0548696 lon: 19.9252528 dystans: 16,20 metrow polaczone drogo: Tatarska
+
+Node Id: 1924864891 lat: 50.0583725 lon: 19.9477562
+	Nodee Id: 310572052 lat: 50.0585817 lon: 19.9482201 dystans: 40,47 metrow polaczone drogo:  
+	Nodee Id: 278213733 lat: 50.0584477 lon: 19.9482403 dystans: 35,56 metrow polaczone drogo: Józefa Dietla
+	Nodee Id: 2262608106 lat: 50.058176 lon: 19.9471543 dystans: 48,20 metrow polaczone drogo: Józefa Dietla
+
+Node Id: 2988407065 lat: 50.0550345 lon: 19.9445772
+	Nodee Id: 34805993 lat: 50.0549985 lon: 19.9446182 dystans: 4,96 metrow polaczone drogo: Œwiêtego Sebastiana
+	Nodee Id: 288492177 lat: 50.0551692 lon: 19.9444184 dystans: 18,78 metrow polaczone drogo: Œwiêtego Sebastiana
+
+Node Id: 278192367 lat: 50.0548213 lon: 19.9471577
+	Nodee Id: 278192368 lat: 50.0553546 lon: 19.9483212 dystans: 102,06 metrow polaczone drogo: Berka Joselewicza
+	Nodee Id: 32122180 lat: 50.0541191 lon: 19.9456923 dystans: 130,55 metrow polaczone drogo: Berka Joselewicza
+
+Node Id: 264464994 lat: 50.0536589 lon: 19.9484026
+	Nodee Id: 278213707 lat: 50.0538693 lon: 19.9494116 dystans: 75,74 metrow polaczone drogo: Miodowa
+	Nodee Id: 32122178 lat: 50.0531358 lon: 19.9462155 dystans: 166,63 metrow polaczone drogo: Miodowa
+	Nodee Id: 278194687 lat: 50.0534778 lon: 19.9485864 dystans: 24,04 metrow polaczone drogo: Starowiœlna
+	Nodee Id: 1894287219 lat: 50.0559216 lon: 19.9459978 dystans: 304,60 metrow polaczone drogo: Starowiœlna
+
+Node Id: 278234287 lat: 50.053302 lon: 19.929629
+	Nodee Id: 1780711571 lat: 50.0531409 lon: 19.9291197 dystans: 40,53 metrow polaczone drogo: Zamkowa
+	Nodee Id: 278234273 lat: 50.0521637 lon: 19.9304415 dystans: 139,23 metrow polaczone drogo: Zamkowa
+
+Node Id: 2091603850 lat: 50.0647425 lon: 19.9472634
+	Nodee Id: 262206402 lat: 50.0649269 lon: 19.9492352 dystans: 142,23 metrow polaczone drogo: Lubicz
+	Nodee Id: 3400777678 lat: 50.0647156 lon: 19.9463154 dystans: 67,73 metrow polaczone drogo: Lubicz
+	Nodee Id: 3400777677 lat: 50.0646204 lon: 19.9460623 dystans: 86,80 metrow polaczone drogo: Lubicz
+
+Node Id: 3400777678 lat: 50.0647156 lon: 19.9463154
+	Nodee Id: 2091603850 lat: 50.0647425 lon: 19.9472634 dystans: 67,73 metrow polaczone drogo: Lubicz
+	Nodee Id: 3027072357 lat: 50.0647012 lon: 19.9460984 dystans: 15,57 metrow polaczone drogo: Lubicz
+
+Node Id: 2519190132 lat: 50.0614324 lon: 19.9399394
+	Nodee Id: 2996091179 lat: 50.0613807 lon: 19.9399915 dystans: 6,85 metrow polaczone drogo:  
+	Nodee Id: 1913875698 lat: 50.0616153 lon: 19.9385514 dystans: 101,15 metrow polaczone drogo:  
+	Nodee Id: 2519190134 lat: 50.0617404 lon: 19.940225 dystans: 39,86 metrow polaczone drogo:  
+
+Node Id: 3024563466 lat: 50.0584698 lon: 19.9325055
+	Nodee Id: 2143514404 lat: 50.0564661 lon: 19.9292942 dystans: 319,68 metrow polaczone drogo: Zwierzyniecka
+	Nodee Id: 3024563471 lat: 50.0588017 lon: 19.9332013 dystans: 61,88 metrow polaczone drogo: Zwierzyniecka
+	Nodee Id: 2419367407 lat: 50.0587045 lon: 19.9332501 dystans: 59,22 metrow polaczone drogo: Zwierzyniecka
+
+Node Id: 207469742 lat: 50.0583038 lon: 19.9467249
+	Nodee Id: 261708615 lat: 50.0581851 lon: 19.9468737 dystans: 16,94 metrow polaczone drogo: Józefa Dietla
+	Nodee Id: 2262141620 lat: 50.0580449 lon: 19.9463814 dystans: 37,82 metrow polaczone drogo: Józefa Dietla
+	Nodee Id: 2262140653 lat: 50.0585521 lon: 19.9474855 dystans: 60,91 metrow polaczone drogo: Józefa Dietla
+	Nodee Id: 254348392 lat: 50.05853 lon: 19.9447567 dystans: 142,74 metrow polaczone drogo: Wielopole
+
+Node Id: 2262141620 lat: 50.0580449 lon: 19.9463814
+	Nodee Id: 207469742 lat: 50.0583038 lon: 19.9467249 dystans: 37,82 metrow polaczone drogo: Józefa Dietla
+	Nodee Id: 2262141618 lat: 50.0578517 lon: 19.9462152 dystans: 24,54 metrow polaczone drogo: Józefa Dietla
+
+Node Id: 2262141618 lat: 50.0578517 lon: 19.9462152
+	Nodee Id: 207469743 lat: 50.0576182 lon: 19.9460143 dystans: 29,66 metrow polaczone drogo: Józefa Dietla
+	Nodee Id: 2262141620 lat: 50.0580449 lon: 19.9463814 dystans: 24,54 metrow polaczone drogo: Józefa Dietla
+
+Node Id: 2262145782 lat: 50.057246 lon: 19.945741
+	Nodee Id: 207469743 lat: 50.0576182 lon: 19.9460143 dystans: 45,76 metrow polaczone drogo: Józefa Dietla
+	Nodee Id: 258237443 lat: 50.0565839 lon: 19.9452209 dystans: 82,46 metrow polaczone drogo: Józefa Dietla
+
+Node Id: 2262608106 lat: 50.058176 lon: 19.9471543
+	Nodee Id: 261708613 lat: 50.0577754 lon: 19.9467593 dystans: 52,72 metrow polaczone drogo: Józefa Dietla
+	Nodee Id: 1924864891 lat: 50.0583725 lon: 19.9477562 dystans: 48,20 metrow polaczone drogo: Józefa Dietla
+
+Node Id: 2263092335 lat: 50.0558461 lon: 19.929751
+	Nodee Id: 236139461 lat: 50.0554144 lon: 19.9315797 dystans: 139,10 metrow polaczone drogo: Powiœle
+	Nodee Id: 2143514396 lat: 50.0560602 lon: 19.9289356 dystans: 62,89 metrow polaczone drogo: Powiœle
+
+Node Id: 2143514396 lat: 50.0560602 lon: 19.9289356
+	Nodee Id: 2263092335 lat: 50.0558461 lon: 19.929751 dystans: 62,89 metrow polaczone drogo: Powiœle
+	Nodee Id: 2646085163 lat: 50.0564129 lon: 19.929273 dystans: 46,02 metrow polaczone drogo: Zwierzyniecka
+	Nodee Id: 2263117826 lat: 50.0556508 lon: 19.9284859 dystans: 55,71 metrow polaczone drogo: Zwierzyniecka
+	Nodee Id: 2419720327 lat: 50.0561118 lon: 19.928821 dystans: 9,99 metrow polaczone drogo: Powiœle
+
+Node Id: 251693212 lat: 50.0563041 lon: 19.9237479
+	Nodee Id: 290370921 lat: 50.0570128 lon: 19.925082 dystans: 123,62 metrow polaczone drogo: Kornela Ujejskiego
+	Nodee Id: 3776760942 lat: 50.056274 lon: 19.9237757 dystans: 3,89 metrow polaczone drogo: W³óczków
+
+Node Id: 278198332 lat: 50.0518529 lon: 19.9484298
+	Nodee Id: 278198323 lat: 50.0527037 lon: 19.9479184 dystans: 101,41 metrow polaczone drogo: Szeroka
+	Nodee Id: 278198333 lat: 50.0527227 lon: 19.9480747 dystans: 99,99 metrow polaczone drogo: Szeroka
+
+Node Id: 602651341 lat: 50.0591272 lon: 19.9330284
+	Nodee Id: 3024563471 lat: 50.0588017 lon: 19.9332013 dystans: 38,24 metrow polaczone drogo: Floriana Straszewskiego
+	Nodee Id: 3024563489 lat: 50.0599542 lon: 19.9326733 dystans: 95,39 metrow polaczone drogo: Floriana Straszewskiego
+
+Node Id: 3024563471 lat: 50.0588017 lon: 19.9332013
+	Nodee Id: 602651341 lat: 50.0591272 lon: 19.9330284 dystans: 38,24 metrow polaczone drogo: Floriana Straszewskiego
+	Nodee Id: 2419367407 lat: 50.0587045 lon: 19.9332501 dystans: 11,36 metrow polaczone drogo: Floriana Straszewskiego
+	Nodee Id: 3025253161 lat: 50.0588689 lon: 19.9333403 dystans: 12,42 metrow polaczone drogo: Franciszkañska
+	Nodee Id: 3024563466 lat: 50.0584698 lon: 19.9325055 dystans: 61,88 metrow polaczone drogo: Zwierzyniecka
+
+Node Id: 1913862638 lat: 50.0606704 lon: 19.9375282
+	Nodee Id: 1913862638 lat: 50.0606704 lon: 19.9375282 dystans: 0,00 metrow polaczone drogo: Rynek G³ówny
+	Nodee Id: 1913862638 lat: 50.0606704 lon: 19.9375282 dystans: 0,00 metrow polaczone drogo: Rynek G³ówny
+
+Node Id: 30375940 lat: 50.0554003 lon: 19.9383315
+	Nodee Id: 2067207833 lat: 50.0547591 lon: 19.9384783 dystans: 72,06 metrow polaczone drogo: Grodzka
+	Nodee Id: 2466762370 lat: 50.0566627 lon: 19.93817 dystans: 140,85 metrow polaczone drogo: Grodzka
+
+Node Id: 3010730390 lat: 50.0649149 lon: 19.9413755
+	Nodee Id: 3010766878 lat: 50.0648261 lon: 19.9413412 dystans: 10,17 metrow polaczone drogo:  
+	Nodee Id: 3639278906 lat: 50.0651258 lon: 19.9414681 dystans: 24,36 metrow polaczone drogo:  
+
+Node Id: 1658773318 lat: 50.0606658 lon: 19.9402106
+	Nodee Id: 2107295305 lat: 50.0616252 lon: 19.9404399 dystans: 107,93 metrow polaczone drogo: Ma³y Rynek
+	Nodee Id: 2107295305 lat: 50.0616252 lon: 19.9404399 dystans: 107,93 metrow polaczone drogo: Ma³y Rynek
+
+Node Id: 2134664356 lat: 50.055025 lon: 19.9378533
+	Nodee Id: 2134664356 lat: 50.055025 lon: 19.9378533 dystans: 0,00 metrow polaczone drogo: Plac œwiêtego Idziego
+	Nodee Id: 2134664356 lat: 50.055025 lon: 19.9378533 dystans: 0,00 metrow polaczone drogo: Plac œwiêtego Idziego
+
+Node Id: 2482236908 lat: 50.0652023 lon: 19.922724
+	Nodee Id: 2482236910 lat: 50.0652252 lon: 19.9225709 dystans: 11,22 metrow polaczone drogo:  
+	Nodee Id: 264342640 lat: 50.0651565 lon: 19.923022 dystans: 21,87 metrow polaczone drogo:  
+
+Node Id: 2482236903 lat: 50.0649744 lon: 19.9229568
+	Nodee Id: 2482236906 lat: 50.0650167 lon: 19.9229721 dystans: 4,83 metrow polaczone drogo:  
+	Nodee Id: 264342689 lat: 50.0640693 lon: 19.9226264 dystans: 103,37 metrow polaczone drogo:  
+
+Node Id: 2104477130 lat: 50.0633755 lon: 19.9330239
+	Nodee Id: 2419894894 lat: 50.0634183 lon: 19.9329642 dystans: 6,39 metrow polaczone drogo: Szewska
+	Nodee Id: 2104477127 lat: 50.0632882 lon: 19.9331679 dystans: 14,14 metrow polaczone drogo: Szewska
+
+Node Id: 2262210339 lat: 50.0570602 lon: 19.9447222
+	Nodee Id: 2098694945 lat: 50.0576892 lon: 19.9440834 dystans: 83,50 metrow polaczone drogo: Starowiœlna
+	Nodee Id: 258237443 lat: 50.0565839 lon: 19.9452209 dystans: 63,82 metrow polaczone drogo: Starowiœlna
+
+Node Id: 2519190127 lat: 50.061313 lon: 19.9402065
+	Nodee Id: 2996088770 lat: 50.0613488 lon: 19.9400891 dystans: 9,28 metrow polaczone drogo:  
+	Nodee Id: 4056370009 lat: 50.0615414 lon: 19.940785 dystans: 48,48 metrow polaczone drogo:  
+
+Node Id: 1913875698 lat: 50.0616153 lon: 19.9385514
+	Nodee Id: 2519190132 lat: 50.0614324 lon: 19.9399394 dystans: 101,15 metrow polaczone drogo:  
+	Nodee Id: 1913862668 lat: 50.0612934 lon: 19.9383127 dystans: 39,64 metrow polaczone drogo:  
+
+Node Id: 2500996741 lat: 50.062856 lon: 19.9369077
+	Nodee Id: 251691838 lat: 50.0628045 lon: 19.9368672 dystans: 6,41 metrow polaczone drogo: S³awkowska
+	Nodee Id: 256625831 lat: 50.0635622 lon: 19.9374754 dystans: 88,37 metrow polaczone drogo: S³awkowska
+
+Node Id: 2104477127 lat: 50.0632882 lon: 19.9331679
+	Nodee Id: 256620826 lat: 50.062523 lon: 19.9349872 dystans: 155,26 metrow polaczone drogo: Szewska
+	Nodee Id: 2104477130 lat: 50.0633755 lon: 19.9330239 dystans: 14,14 metrow polaczone drogo: Szewska
+
+Node Id: 2560355766 lat: 50.0648268 lon: 19.9464853
+	Nodee Id: 2560355768 lat: 50.0648518 lon: 19.9465771 dystans: 7,12 metrow polaczone drogo:  
+	Nodee Id: 3021379408 lat: 50.0647886 lon: 19.9461838 dystans: 21,94 metrow polaczone drogo:  
+
+Node Id: 2560355793 lat: 50.0652984 lon: 19.9454177
+	Nodee Id: 2560355784 lat: 50.0652661 lon: 19.945577 dystans: 11,92 metrow polaczone drogo:  
+	Nodee Id: 3719851572 lat: 50.0653187 lon: 19.9452785 dystans: 10,19 metrow polaczone drogo:  
+
+Node Id: 2574619492 lat: 50.0613666 lon: 19.9354189
+	Nodee Id: 2574619487 lat: 50.0613062 lon: 19.9354399 dystans: 6,88 metrow polaczone drogo: Rynek G³ówny
+	Nodee Id: 1417479896 lat: 50.0626013 lon: 19.9322356 dystans: 265,49 metrow polaczone drogo: Œwiêtej Anny
+
+Node Id: 724399309 lat: 50.0694081 lon: 19.9259908
+	Nodee Id: 724399317 lat: 50.0698035 lon: 19.9255017 dystans: 56,14 metrow polaczone drogo: Królewska
+	Nodee Id: 494601371 lat: 50.0693613 lon: 19.9260484 dystans: 6,63 metrow polaczone drogo: Królewska
+
+Node Id: 274260908 lat: 50.0648095 lon: 19.940369
+	Nodee Id: 4109275528 lat: 50.0648158 lon: 19.9412424 dystans: 62,35 metrow polaczone drogo: Pijarska
+	Nodee Id: 2620270143 lat: 50.064805 lon: 19.9403092 dystans: 4,30 metrow polaczone drogo: Pijarska
+
+Node Id: 256625831 lat: 50.0635622 lon: 19.9374754
+	Nodee Id: 2500996741 lat: 50.062856 lon: 19.9369077 dystans: 88,37 metrow polaczone drogo: S³awkowska
+	Nodee Id: 30376047 lat: 50.0643157 lon: 19.9380193 dystans: 92,34 metrow polaczone drogo: S³awkowska
+
+Node Id: 1913862676 lat: 50.0623226 lon: 19.9379745
+	Nodee Id: 2110897868 lat: 50.062468 lon: 19.9380846 dystans: 17,98 metrow polaczone drogo: Œwiêtego Jana
+	Nodee Id: 2503383012 lat: 50.0621185 lon: 19.9377341 dystans: 28,45 metrow polaczone drogo:  
+
+Node Id: 2683359173 lat: 50.0547046 lon: 19.9326823
+	Nodee Id: 2683359173 lat: 50.0547046 lon: 19.9326823 dystans: 0,00 metrow polaczone drogo: Plac Wielkiej Armii Napoleona
+	Nodee Id: 2683359173 lat: 50.0547046 lon: 19.9326823 dystans: 0,00 metrow polaczone drogo: Plac Wielkiej Armii Napoleona
+
+Node Id: 3400777677 lat: 50.0646204 lon: 19.9460623
+	Nodee Id: 2420717850 lat: 50.0646181 lon: 19.9449621 dystans: 78,53 metrow polaczone drogo: Lubicz
+	Nodee Id: 2091603850 lat: 50.0647425 lon: 19.9472634 dystans: 86,80 metrow polaczone drogo: Lubicz
+
+Node Id: 2696918418 lat: 50.0529395 lon: 19.9292764
+	Nodee Id: 278234269 lat: 50.0517248 lon: 19.9302692 dystans: 152,54 metrow polaczone drogo: Marii Konopnickiej
+	Nodee Id: 1780711565 lat: 50.0507187 lon: 19.9309272 dystans: 273,63 metrow polaczone drogo: Marii Konopnickiej
+	Nodee Id: 1780711571 lat: 50.0531409 lon: 19.9291197 dystans: 25,03 metrow polaczone drogo: Marii Konopnickiej
+
+Node Id: 3761874090 lat: 50.0550121 lon: 19.9276802
+	Nodee Id: 1876808668 lat: 50.055126 lon: 19.9275096 dystans: 17,57 metrow polaczone drogo: Aleja Zygmunta Krasiñskiego
+	Nodee Id: 207441054 lat: 50.0547749 lon: 19.9278603 dystans: 29,34 metrow polaczone drogo: Marii Konopnickiej
+	Nodee Id: 1169737316 lat: 50.0551792 lon: 19.9276337 dystans: 18,87 metrow polaczone drogo: Aleja Zygmunta Krasiñskiego
+
+Node Id: 207435523 lat: 50.0700434 lon: 19.9273068
+	Nodee Id: 265517208 lat: 50.0700123 lon: 19.9272855 dystans: 3,78 metrow polaczone drogo: Aleja Juliusza S³owackiego
+	Nodee Id: 207435531 lat: 50.0712654 lon: 19.9293166 dystans: 197,58 metrow polaczone drogo: Aleja Juliusza S³owackiego
+	Nodee Id: 273461470 lat: 50.0702557 lon: 19.9274087 dystans: 24,70 metrow polaczone drogo:  
+
+Node Id: 4306409281 lat: 50.0644921 lon: 19.9242765
+	Nodee Id: 236151783 lat: 50.0638173 lon: 19.9240608 dystans: 76,60 metrow polaczone drogo: Aleja Adama Mickiewicza
+	Nodee Id: 236150723 lat: 50.06475 lon: 19.9243556 dystans: 29,23 metrow polaczone drogo: Aleja Adama Mickiewicza
+
+Node Id: 2403408326 lat: 50.0563759 lon: 19.9270386
+	Nodee Id: 273798747 lat: 50.0568839 lon: 19.9267769 dystans: 59,50 metrow polaczone drogo: Aleja Zygmunta Krasiñskiego
+	Nodee Id: 663041732 lat: 50.0560693 lon: 19.9272121 dystans: 36,27 metrow polaczone drogo: Aleja Zygmunta Krasiñskiego
+
+Node Id: 279035505 lat: 50.0582287 lon: 19.9260322
+	Nodee Id: 273798747 lat: 50.0568839 lon: 19.9267769 dystans: 158,70 metrow polaczone drogo: Aleja Zygmunta Krasiñskiego
+	Nodee Id: 226214980 lat: 50.0593596 lon: 19.9252909 dystans: 136,43 metrow polaczone drogo: Aleja Zygmunta Krasiñskiego
+
+Node Id: 1325703552 lat: 50.0631176 lon: 19.9238151
+	Nodee Id: 418150494 lat: 50.0637228 lon: 19.9240264 dystans: 68,96 metrow polaczone drogo: Aleja Adama Mickiewicza
+	Nodee Id: 236151807 lat: 50.0622572 lon: 19.9237442 dystans: 95,81 metrow polaczone drogo: Aleja Adama Mickiewicza
+
+Node Id: 2068887050 lat: 50.0530235 lon: 19.9287872
+	Nodee Id: 244398996 lat: 50.0522551 lon: 19.9281232 dystans: 97,71 metrow polaczone drogo: Genera³a Antoniego Józefa Madaliñskiego
+	Nodee Id: 2984320935 lat: 50.0530762 lon: 19.9289406 dystans: 12,42 metrow polaczone drogo: Genera³a Antoniego Józefa Madaliñskiego
+
+Node Id: 288492177 lat: 50.0551692 lon: 19.9444184
+	Nodee Id: 2988407065 lat: 50.0550345 lon: 19.9445772 dystans: 18,78 metrow polaczone drogo: Œwiêtego Sebastiana
+	Nodee Id: 2988407066 lat: 50.0552906 lon: 19.9442748 dystans: 16,95 metrow polaczone drogo: Œwiêtego Sebastiana
+
+Node Id: 2988407066 lat: 50.0552906 lon: 19.9442748
+	Nodee Id: 32122182 lat: 50.0553402 lon: 19.9442119 dystans: 7,11 metrow polaczone drogo: Œwiêtego Sebastiana
+	Nodee Id: 288492177 lat: 50.0551692 lon: 19.9444184 dystans: 16,95 metrow polaczone drogo: Œwiêtego Sebastiana
+
+Node Id: 272798850 lat: 50.0593728 lon: 19.9365596
+	Nodee Id: 251690144 lat: 50.0594556 lon: 19.9362209 dystans: 25,87 metrow polaczone drogo: Franciszkañska
+	Nodee Id: 571611842 lat: 50.059197 lon: 19.9369534 dystans: 34,24 metrow polaczone drogo: Franciszkañska
+
+Node Id: 236138215 lat: 50.0548159 lon: 19.9380119
+	Nodee Id: 236137518 lat: 50.0552981 lon: 19.9374784 dystans: 65,77 metrow polaczone drogo: Œwiêtego Idziego
+	Nodee Id: 30375949 lat: 50.0545799 lon: 19.9384098 dystans: 38,67 metrow polaczone drogo: Œwiêtego Idziego
+
+Node Id: 2115812937 lat: 50.0532044 lon: 19.9353147
+	Nodee Id: 2990991224 lat: 50.0539208 lon: 19.9365355 dystans: 118,08 metrow polaczone drogo:  
+	Nodee Id: 30376010 lat: 50.0536926 lon: 19.9341876 dystans: 97,07 metrow polaczone drogo: Zamek Wawel
+
+Node Id: 3002791485 lat: 50.061159 lon: 19.9442517
+	Nodee Id: 3002791485 lat: 50.061159 lon: 19.9442517 dystans: 0,00 metrow polaczone drogo:  
+	Nodee Id: 3002791485 lat: 50.061159 lon: 19.9442517 dystans: 0,00 metrow polaczone drogo:  
+
+Node Id: 3002792140 lat: 50.0609991 lon: 19.946717
+	Nodee Id: 3002792140 lat: 50.0609991 lon: 19.946717 dystans: 0,00 metrow polaczone drogo:  
+	Nodee Id: 3002792140 lat: 50.0609991 lon: 19.946717 dystans: 0,00 metrow polaczone drogo:  
+
+Node Id: 3002789987 lat: 50.0610865 lon: 19.9472238
+	Nodee Id: 3002789987 lat: 50.0610865 lon: 19.9472238 dystans: 0,00 metrow polaczone drogo:  
+	Nodee Id: 3002789987 lat: 50.0610865 lon: 19.9472238 dystans: 0,00 metrow polaczone drogo:  
+
+Node Id: 4213480890 lat: 50.0590326 lon: 19.9339926
+	Nodee Id: 2419367407 lat: 50.0587045 lon: 19.9332501 dystans: 64,35 metrow polaczone drogo: Franciszkañska
+	Nodee Id: 2419367450 lat: 50.0593749 lon: 19.9348836 dystans: 74,12 metrow polaczone drogo: Franciszkañska
+
+Node Id: 4213480891 lat: 50.0591218 lon: 19.9339206
+	Nodee Id: 3025253161 lat: 50.0588689 lon: 19.9333403 dystans: 50,07 metrow polaczone drogo: Franciszkañska
+	Nodee Id: 2419367450 lat: 50.0593749 lon: 19.9348836 dystans: 74,28 metrow polaczone drogo: Franciszkañska
+
+Node Id: 2419367450 lat: 50.0593749 lon: 19.9348836
+	Nodee Id: 251690144 lat: 50.0594556 lon: 19.9362209 dystans: 95,89 metrow polaczone drogo: Franciszkañska
+	Nodee Id: 4213480890 lat: 50.0590326 lon: 19.9339926 dystans: 74,12 metrow polaczone drogo: Franciszkañska
+	Nodee Id: 4213480891 lat: 50.0591218 lon: 19.9339206 dystans: 74,28 metrow polaczone drogo: Franciszkañska
+
+Node Id: 3027072357 lat: 50.0647012 lon: 19.9460984
+	Nodee Id: 2420717850 lat: 50.0646181 lon: 19.9449621 dystans: 81,63 metrow polaczone drogo: Lubicz
+	Nodee Id: 3400777678 lat: 50.0647156 lon: 19.9463154 dystans: 15,57 metrow polaczone drogo: Lubicz
+
+Node Id: 207441054 lat: 50.0547749 lon: 19.9278603
+	Nodee Id: 3761874090 lat: 50.0550121 lon: 19.9276802 dystans: 29,34 metrow polaczone drogo: Marii Konopnickiej
+	Nodee Id: 3037566731 lat: 50.0534062 lon: 19.9289242 dystans: 170,09 metrow polaczone drogo: Marii Konopnickiej
+
+Node Id: 3085001144 lat: 50.0657436 lon: 19.9245263
+	Nodee Id: 3085001144 lat: 50.0657436 lon: 19.9245263 dystans: 0,00 metrow polaczone drogo:  
+	Nodee Id: 3085001144 lat: 50.0657436 lon: 19.9245263 dystans: 0,00 metrow polaczone drogo:  
+
+Node Id: 3085001237 lat: 50.065705 lon: 19.9243683
+	Nodee Id: 3085001237 lat: 50.065705 lon: 19.9243683 dystans: 0,00 metrow polaczone drogo:  
+	Nodee Id: 3085001237 lat: 50.065705 lon: 19.9243683 dystans: 0,00 metrow polaczone drogo:  
+
+Node Id: 3085000371 lat: 50.0594527 lon: 19.9253712
+	Nodee Id: 3085000371 lat: 50.0594527 lon: 19.9253712 dystans: 0,00 metrow polaczone drogo:  
+	Nodee Id: 3085000371 lat: 50.0594527 lon: 19.9253712 dystans: 0,00 metrow polaczone drogo:  
+
+Node Id: 3085001453 lat: 50.0659457 lon: 19.9241838
+	Nodee Id: 3085001453 lat: 50.0659457 lon: 19.9241838 dystans: 0,00 metrow polaczone drogo:  
+	Nodee Id: 3085001453 lat: 50.0659457 lon: 19.9241838 dystans: 0,00 metrow polaczone drogo:  
+
+Node Id: 3085001387 lat: 50.0658513 lon: 19.9241694
+	Nodee Id: 3085001387 lat: 50.0658513 lon: 19.9241694 dystans: 0,00 metrow polaczone drogo:  
+	Nodee Id: 3085001387 lat: 50.0658513 lon: 19.9241694 dystans: 0,00 metrow polaczone drogo:  
+
+Node Id: 3085040175 lat: 50.0694585 lon: 19.9260278
+	Nodee Id: 3085040175 lat: 50.0694585 lon: 19.9260278 dystans: 0,00 metrow polaczone drogo:  
+	Nodee Id: 3085040175 lat: 50.0694585 lon: 19.9260278 dystans: 0,00 metrow polaczone drogo:  
+
+Node Id: 3090925578 lat: 50.059198 lon: 19.9385732
+	Nodee Id: 3090925578 lat: 50.059198 lon: 19.9385732 dystans: 0,00 metrow polaczone drogo:  
+	Nodee Id: 3090925578 lat: 50.059198 lon: 19.9385732 dystans: 0,00 metrow polaczone drogo:  
+
+Node Id: 3721726318 lat: 50.0544959 lon: 19.9385385
+	Nodee Id: 30375949 lat: 50.0545799 lon: 19.9384098 dystans: 13,10 metrow polaczone drogo: Œwiêtego Idziego
+	Nodee Id: 2990670910 lat: 50.0543856 lon: 19.9386994 dystans: 16,80 metrow polaczone drogo: Œwiêtego Idziego
+
+Node Id: 3037566731 lat: 50.0534062 lon: 19.9289242
+	Nodee Id: 207441054 lat: 50.0547749 lon: 19.9278603 dystans: 170,09 metrow polaczone drogo: Marii Konopnickiej
+	Nodee Id: 1780711571 lat: 50.0531409 lon: 19.9291197 dystans: 32,64 metrow polaczone drogo: Marii Konopnickiej
+
+Node Id: 3776760942 lat: 50.056274 lon: 19.9237757
+	Nodee Id: 251693212 lat: 50.0563041 lon: 19.9237479 dystans: 3,89 metrow polaczone drogo: W³óczków
+	Nodee Id: 3776760941 lat: 50.0560632 lon: 19.9239909 dystans: 28,03 metrow polaczone drogo: W³óczków
+
+Node Id: 207437974 lat: 50.0626913 lon: 19.9232133
+	Nodee Id: 266695294 lat: 50.0621873 lon: 19.9232885 dystans: 56,30 metrow polaczone drogo: Aleja Adama Mickiewicza
+	Nodee Id: 262210524 lat: 50.0638776 lon: 19.9236128 dystans: 134,96 metrow polaczone drogo: Aleja Adama Mickiewicza
+
